@@ -1,0 +1,801 @@
+name,code,logo,rank,region,region_code,region_ranking,score,indicator_Alumni,indicator_Award,indicator_HiCi,indicator_N&S,indicator_PUB,indicator_PCP
+Harvard University,harvard-university,logo/032bd1b77.png,1,United States,us,1,100,100,100,100,100,100,79.5
+Stanford University,stanford-university,logo/13de8913b.png,2,United States,us,2,76.5,44.5,88.5,87.3,74.4,73.7,56.8
+University of Cambridge,university-of-cambridge,logo/8d9861b69.png,3,United Kingdom,gb,1,70.9,81.4,95.4,54.6,57.3,69.8,59.1
+Massachusetts Institute of Technology (MIT),massachusetts-institute-of-technology-mit,logo/79165fd8b.png,4,United States,us,3,70.4,68.7,82.3,56.7,72.4,63.5,70.8
+University of California - Berkeley,university-of-california-berkeley,logo/0ff179fb8.png,5,United States,us,4,69.1,64.4,78.4,63.6,68.1,66.7,58.7
+Princeton University,princeton-university,logo/b1dad5288.png,6,United States,us,5,61.1,54.4,97.9,47.6,46.6,43.3,73.5
+University of Oxford,university-of-oxford,logo/c1d967477.png,7,United Kingdom,gb,2,60.1,50.8,54.2,62.7,52.5,75.8,47.2
+Columbia University,columbia-university,logo/ce3421720.png,8,United States,us,6,58.8,62.8,65.1,50,53.8,70.3,34.3
+California Institute of Technology,california-institute-of-technology,logo/c956f3d98.png,9,United States,us,7,57.3,50.5,65.8,39.3,56,44,100
+University of Chicago,university-of-chicago,logo/b4f6eec47.png,10,United States,us,8,53.9,59.2,85.1,36.2,41.1,50.3,43.1
+Yale University,yale-university,logo/5c6f4b7f6.png,11,United States,us,9,52.8,47.1,49.7,48.8,57.1,61,37.2
+University of California - Los Angeles,university-of-california-los-angeles,logo/27bdc3879.png,12,United States,us,10,52.5,29.2,46.4,63.6,44.9,70.9,33.6
+University of Washington,university-of-washington,logo/e37a45f2d.png,13,United States,us,11,50.3,20.9,37.4,56.7,51.2,74.3,32.7
+Cornell University,cornell-university,logo/e6c9fdb3e.png,14,United States,us,12,49.6,43.1,49.1,43.6,46.1,61.1,42.6
+University of California - San Diego,university-of-california-san-diego,logo/3ef15c5ab.png,15,United States,us,13,49.5,19,35.1,58.8,56.4,63.7,38.3
+University College London,university-college-london,logo/9f3188b58.png,16,United Kingdom,gb,3,47.1,27.8,35.8,47.6,39.6,77,33.5
+University of Pennsylvania,university-of-pennsylvania,logo/9cdff1ab0.png,17,United States,us,14,46,31.3,33.4,50,38.7,68,39.5
+Johns Hopkins University,johns-hopkins-university,logo/6a65dac86.png,18,United States,us,15,45.7,37.3,33.2,40.8,42.8,73.3,30
+Swiss Federal Institute of Technology Zurich,eth-zurich,logo/690aaf016.png,19,Switzerland,ch,1,44.1,29.2,35.1,36.2,49.5,56.9,47.4
+Washington University in St. Louis,washington-university-in-st-louis,logo/e4356564f.png,20,United States,us,16,43.3,22.7,24.6,60.7,43.3,52,40
+University of California - San Francisco,university-of-california-san-francisco,logo/5d107d88e.png,21,United States,us,17,42.4,0,39.4,39.3,50.8,61.4,33.3
+Northwestern University,northwestern-university,logo/7e0da1019.png,22,United States,us,18,41.9,15.2,27.6,59.8,34.1,59.3,34.3
+University of Toronto,university-of-toronto,logo/760dedb4f.png,23,Canada,ca,1,41.6,19.7,17,40.8,39.6,80.6,31.7
+The University of Tokyo,the-university-of-tokyo,logo/68d505f23.png,24,Japan,jp,1,41.5,38.3,25,28.9,45.2,70.3,29.5
+University of Michigan-Ann Arbor,university-of-michigan-ann-arbor,logo/5edf88399.png,24,United States,us,19,41.5,34.1,0,54.6,40.7,77.9,26
+Duke University,duke-university,logo/793d0ba4d.png,26,United States,us,20,41,15.2,19,61.7,37.8,61.5,26.5
+Imperial College London,imperial-college-london,logo/20b72ddaf.png,27,United Kingdom,gb,4,40.9,14.4,35.4,42.3,30.9,64.8,39.5
+University of Wisconsin - Madison,university-of-wisconsin-madison,logo/da433331f.png,28,United States,us,21,39.7,32.5,34.3,34.5,33.4,63.5,24.5
+New York University,new-york-university,logo/d254e1d21.png,29,United States,us,22,38.6,29.6,31.5,34.5,38.4,58.9,21.6
+University of Copenhagen,university-of-copenhagen,logo/ba52788d7.png,30,Denmark,dk,1,38.5,21.5,18.6,34.5,36.6,66.7,43.1
+University of British Columbia,university-of-british-columbia,logo/38ff70adf.png,31,Canada,ca,2,37.7,15.2,18.6,47.6,31.2,65.6,28.4
+The University of Edinburgh,the-university-of-edinburgh,logo/ce563e70b.png,32,United Kingdom,gb,5,37,24.3,24.6,46.3,29.7,53.8,29
+University of North Carolina at Chapel Hill,university-of-north-carolina-at-chapel-hill,logo/6f189065b.png,33,United States,us,23,36.9,8.8,23.4,42.3,31.8,61.5,35.2
+University of Minnesota - Twin Cities,university-of-minnesota-twin-cities,logo/7f9e67da9.png,34,United States,us,24,36.8,29.2,16.1,39.3,33.1,65.2,24.1
+Kyoto University,kyoto-university,logo/ac21f9c26.png,35,Japan,jp,2,36.7,31.3,36.7,24.4,31.8,59.3,23.8
+Rockefeller University,rockefeller-university,logo/22e351bb0.png,36,United States,us,25,36.6,16.8,59,30.9,41.1,19.6,40.5
+University of Illinois at Urbana-Champaign,university-of-illinois-at-urbana-champaign,logo/49df86f43.png,37,United States,us,26,36.2,29.6,35.8,24.4,30.8,57.4,28.1
+The University of Manchester,the-university-of-manchester,logo/ef5cc8934.png,38,United Kingdom,gb,6,36.1,18.3,32.2,32.7,28.7,59.7,28.8
+The University of Melbourne,the-university-of-melbourne,logo/741caa454.png,39,Australia,au,1,35.9,16.8,13.1,45,22.8,69.7,33.9
+Pierre and Marie Curie University - Paris 6,pierre-and-marie-curie-university-paris-6,logo/438b4206b.png,40,France,fr,1,35.5,33.3,27.1,24.4,28,62.9,29.5
+University of Paris-Sud (Paris 11),university-of-paris-sud-paris-11,logo/250639a27.png,41,France,fr,2,35,30,53.6,18.9,18.7,48.6,33.2
+Heidelberg University,heidelberg-university,logo/c1b74c074.png,42,Germany,de,1,34.8,19.7,25,34.5,28.8,53.6,37.5
+University of Colorado at Boulder,university-of-colorado-at-boulder,logo/41aff2fed.png,43,United States,us,27,34.7,12.4,33.6,28.9,37.1,46.6,34.8
+Karolinska Institute,karolinska-institute,logo/826acd5a2.png,44,Sweden,se,1,33.3,25.4,26.3,24.4,23.7,53.3,45.8
+University of California - Santa Barbara,university-of-california-santa-barbara,logo-jpg/63f81166100.jpg,45,United States,us,28,33.2,14.4,38.6,32.7,26.7,38.3,38
+King's College London,kings-college-london,logo/7c3673100.png,46,United Kingdom,gb,7,33.1,20.9,20.8,39.3,21.1,56.1,29
+Utrecht University,utrecht-university,logo/5063041ca.png,47,Netherlands,nl,1,33,22.7,19.7,40.8,26.7,47.7,31.1
+The University of Texas Southwestern Medical Center at Dallas,the-university-of-texas-southwestern-medical-center-at-dallas,logo/8ab040a7d.png,48,United States,us,29,32.8,18.3,34,28.9,39.4,35.6,27.2
+Tsinghua University,tsinghua-university,logo/27532357.png,48,China,cn,1,32.8,10.2,0,37.8,35.2,70.3,25.1
+Technical University Munich,technical-university-of-munich,logo/3d748c924.png,50,Germany,de,2,32.7,34.4,21.3,28.9,23.4,51.7,35.5
+The University of Texas at Austin,the-university-of-texas-at-austin,logo/203d8cd87.png,51,United States,us,30,32.5,16.1,16.1,28.9,35.9,56.9,26.9
+Vanderbilt University,vanderbilt-university,logo/bb01ff238.png,52,United States,us,31,32,15.2,28.6,36.2,21.6,51.9,21.4
+University of Maryland - College Park,university-of-maryland-college-park,logo/0eeb3a1e0.png,53,United States,us,32,31.8,19,19.7,26.7,31.9,53.6,28.2
+University of Southern California,university-of-southern-california,logo/f94b07167.png,54,United States,us,33,31.7,0,31.3,36.2,20.8,54,25.5
+The University of Queensland,the-university-of-queensland,logo/9d6b97a7c.png,55,Australia,au,2,31.6,12.4,0,40.8,25.6,64.8,34.9
+University of Helsinki,university-of-helsinki,logo/174aa57e2.png,56,Finland,fi,1,31.5,18.3,20.8,30.9,22.6,53.5,34.9
+University of Munich,university-of-munich,logo/6d76dd8bd.png,57,Germany,de,3,31.4,25.4,18.9,21.8,31.6,51.7,34.5
+University of Zurich,university-of-zurich,logo/897c2afe4.png,58,Switzerland,ch,2,31.3,5.1,23.7,28.9,28.2,53.1,33.6
+University of Groningen,university-of-groningen,logo/cb5787d1f.png,59,Netherlands,nl,2,31.1,13.4,25.2,28.9,19.5,54.5,35.6
+University of Geneva,university-of-geneva,logo/7cd1dc0d1.png,60,Switzerland,ch,3,31,26.9,27.9,26.7,27.5,39.9,33
+University of Bristol,university-of-bristol,logo/73d83b1e4.png,61,United Kingdom,gb,8,30.1,7.2,16.1,30.9,33.3,47.7,31.5
+University of Oslo,university-of-oslo,logo/2d1aa99b3.png,62,Norway,no,1,29.9,27.8,32.2,15.4,18,52.7,28.7
+Uppsala University,uppsala-university,logo/8e0a7d1d4.png,63,Sweden,se,2,29.8,17.6,27.1,18.9,25,51.6,29.3
+University of California - Irvine,university-of-california-irvine,logo/b1df85949.png,64,United States,us,34,29.4,0,28.9,30.9,24.2,46.8,26.8
+Aarhus University,aarhus-university,logo/0ec23abb4.png,65,Denmark,dk,2,29.1,11.4,21.8,18.9,24.8,54.5,33.3
+McMaster University,mcmaster-university,logo/0f693978a.png,66,Canada,ca,3,29,12.4,18.6,42.3,12.9,45,34.3
+McGill University,mcgill-university,logo/88d833c3e.png,67,Canada,ca,4,28.9,32.5,0,24.4,27.1,60.2,27.1
+University of Pittsburgh - Pittsburgh Campus,university-of-pittsburgh,logo/bfcc56ad8.png,68,United States,us,35,28.7,18.3,0,42.3,19,60.3,19.9
+Ecole Normale Superieure - Paris,ecole-normale-superieure-paris,logo/8c5918f6b.png,69,France,fr,3,28.6,48.4,27.6,0,18.3,28.3,83.1
+Ghent University,ghent-university,logo/a05682830.png,69,Belgium,be,1,28.6,5.1,13.1,30.9,17.6,58.5,35.2
+Mayo Medical School,mayo-clinic-alix-school-of-medicine,logo-jpg/d60a8d8e800.jpg,71,United States,us,36,28.5,0,0,55.6,15.2,49.9,37.9
+Peking University,peking-university,logo/86350223.png,71,China,cn,2,28.5,11.4,0,26.7,27,68.4,23.4
+Erasmus University Rotterdam,erasmus-university-rotterdam,logo/7dc2ef049.png,73,Netherlands,nl,3,28.4,0,14.7,54.6,14.2,34.3,42.9
+Rice University,rice-university,logo/3bd736da6.png,74,United States,us,37,28.2,16.1,21.4,39.3,18.5,30.9,39.5
+Stockholm University,stockholm-university,logo/bd0e71ccb.png,74,Sweden,se,3,28.2,23.8,27.1,21.8,21.2,41.8,28.2
+Swiss Federal Institute of Technology Lausanne,swiss-federal-institute-of-technology-lausanne,logo/1946ead7f.png,76,Switzerland,ch,4,28.1,0,0,39.3,33,42.6,45.7
+Purdue University - West Lafayette,purdue-university-west-lafayette,logo/2ef5fbfcc.png,77,United States,us,38,28,13.4,22.8,18.9,25.4,51.5,23.7
+Monash University,monash-university,logo/6d8339a6f.png,78,Australia,au,3,27.9,0,0,37.8,22.8,60.5,30.9
+Rutgers - The State University of New Jersey - New Brunswick,rutgers-the-state-university-of-new-jersey-new-brunswick,logo/c01c983b9.png,79,United States,us,39,27.8,10.2,18.6,34.5,25.2,43.4,18.6
+Boston University,boston-university,logo/cbbf3b6e2.png,80,United States,us,40-42,27.7,11.4,11.4,30.9,24.7,51.2,23.9
+Carnegie Mellon University,carnegie-mellon-university,logo/e1f857b46.png,80,United States,us,40-42,27.7,31.3,31.2,24.4,14.1,34.9,30.9
+The Ohio State University - Columbus,the-ohio-state-university-columbus,logo/1ccdfc090.png,80,United States,us,40-42,27.7,12.4,0,36.2,21.2,62.5,19.3
+University of Sydney,university-of-sydney,logo/6f7db18c8.png,83,Australia,au,4,27.5,14.4,0,28.9,18.2,66.4,28.4
+Nagoya University,nagoya-university,logo/958492796.png,84,Japan,jp,3,27.2,28.7,25,18.9,18.3,44.3,24.7
+Georgia Institute of Technology,georgia-institute-of-technology,logo/ce6aa6357.png,85,United States,us,43-45,27.1,12.4,0,40.8,24.3,44.8,33.1
+Pennsylvania State University - University Park,pennsylvania-state-university-university-park,logo/1069b7da2.png,85,United States,us,43-45,27.1,10.2,0,32.7,28.6,54.4,24.1
+University of California - Davis,university-of-california-davis,logo/59eef6399.png,85,United States,us,43-45,27.1,0,0,30.9,31.2,58.6,24.8
+Leiden University,leiden-university,logo/970699879.png,88,Netherlands,nl,4,27,17.6,9.3,26.7,20.7,50.6,32.8
+University of Florida,university-of-florida,logo/a1fc569d1.png,88,United States,us,46,27,16.8,0,30.9,19.5,61,24.4
+KU Leuven,ku-leuven,logo/666263d88.png,90,Belgium,be,2,26.9,0,0,34.5,22.9,58.6,31.1
+National University of Singapore,national-university-of-singapore,logo/31943e0cb.png,91,Singapore,sg,1,26.8,0,0,32.7,20.6,60.1,35.5
+The University of Western Australia,the-university-of-western-australia,logo/535124d88.png,91,Australia,au,5,26.8,13.4,13.9,28.9,15.8,49.5,33.1
+Moscow State University,moscow-state-university,logo/98123a275.png,93,Russia,ru,1,26.6,40.9,32.6,0,8.9,51.6,33.8
+Technion-Israel Institute of Technology,technion-israel-institute-of-technology,logo/547232002.png,93,Israel,il,1,26.6,23.3,37.2,15.4,18.7,33,28.6
+University of Basel,university-of-basel,logo/4b95c2a51.png,95,Switzerland,ch,5,26.3,19,16.1,18.9,25.5,40.1,37.4
+University of Goettingen,university-of-goettingen,logo/f34acde58.png,95,Germany,de,4,26.3,30.5,14.7,24.4,22.1,38.5,28.3
+The Australian National University,the-australian-national-university,logo/e6233a5b3.png,97,Australia,au,6,26.1,13.4,19,15.4,24.5,47.2,30.5
+University of California - Santa Cruz,university-of-california-santa-cruz,logo/9ca868f71.png,98,United States,us,47,26,0,0,47.6,29.5,29.1,42.1
+Cardiff University,cardiff-university,logo/0d9ee072c.png,99,United Kingdom,gb,9,25.9,0,16.1,36.2,17.3,43,28.6
+University of Arizona,university-of-arizona,logo/b51ca4f00.png,99,United States,us,48,25.9,14.4,0,30.9,27.3,49,24.7
+Aix Marseille University,aix-marseille-university,logo/db573f4a7.png,101-150,France,fr,4-6,,13.4,0,24.4,25.9,52.4,19.5
+Arizona State University,arizona-state-university,logo/4b703d82d.png,101-150,United States,us,49-60,,0,19.7,21.8,22.5,44.9,22.9
+Baylor College of Medicine,baylor-college-of-medicine,logo/413ba3e0b.png,101-150,United States,us,49-60,,0,0,26.7,30.7,42.2,19.7
+Brown University,brown-university,logo/3d8b527ff.png,101-150,United States,us,49-60,,14.4,19.7,15.4,19.9,44.5,33.4
+Case Western Reserve University,case-western-reserve-university,logo/885955e6b.png,101-150,United States,us,49-60,,30,10.7,21.8,17.9,39.5,24.9
+Catholic University of Louvain,catholic-university-of-louvain,logo/ad05feb78.png,101-150,Belgium,be,3,,10.2,13.1,26.7,9.9,35.7,29.4
+Emory University,emory-university,logo/7489183e0.png,101-150,United States,us,49-60,,0,0,32.7,22.1,52.3,23.3
+Fudan University,fudan-university,logo/28312850.png,101-150,China,cn,3-6,,0,0,24.4,14.8,61.1,23.4
+Icahn School of Medicine at Mount Sinai,icahn-school-of-medicine-at-mount-sinai,logo-jpg/a23fc3bb300.jpg,101-150,United States,us,49-60,,0,0,45,24.2,39.5,21.1
+Indiana University Bloomington,indiana-university-bloomington,logo/7a6b45fcc.png,101-150,United States,us,49-60,,10.2,21.3,21.8,18,40.3,20.8
+King Abdulaziz University,king-abdulaziz-university,logo-jpg/ca4482ae600.jpg,101-150,Saudi Arabia,sa,1-2,,0,0,52.3,11,46.4,18
+King Saud University,king-saud-university,logo/a8ed57dd5.png,101-150,Saudi Arabia,sa,1-2,,0,0,45,3.9,48.2,18.3
+Lund University,lund-university,logo/165fbbe8f.png,101-150,Sweden,se,4,,20.9,0,15.4,18,52.3,23.1
+Michigan State University,michigan-state-university,logo/3be5907be.png,101-150,United States,us,49-60,,8.8,0,26.7,24.2,52.7,19.9
+Nanyang Technological University,nanyang-technological-university,logo/f3d48b4a3.png,101-150,Singapore,sg,2,,0,0,37.8,14.9,53.3,33.3
+Norwegian University of Science and Technology - NTNU,norwegian-university-of-science-and-technology-ntnu,logo/5cbe779ad.png,101-150,Norway,no,2,,13.4,20.8,15.4,13.5,39.9,22.7
+Osaka University,osaka-university,logo/433a187e9.png,101-150,Japan,jp,4-5,,8.8,0,30.9,23.6,50.9,22.2
+Radboud University Nijmegen,radboud-university-nijmegen,logo/6759d15cf.png,101-150,Netherlands,nl,5-8,,16.1,0,15.4,19.5,51.7,35
+Seoul National University,seoul-national-university,logo/4d302fc4e.png,101-150,South Korea,kr,1,,0,0,18.9,17.2,69.1,23.8
+Shanghai Jiao Tong University,shanghai-jiao-tong-university,logo/27403919.png,101-150,China,cn,3-6,,0,0,15.4,11.3,74.4,26.4
+Texas A&M University,texas-a-m-university,logo/df03442c2.png,101-150,United States,us,49-60,,0,0,28.9,17.8,52,19.2
+The Hebrew University of Jerusalem,the-hebrew-university-of-jerusalem,logo/ee11c32f8.png,101-150,Israel,il,2-3,,31.7,27.9,10.9,17.7,38.5,28.1
+The University of Adelaide,the-university-of-adelaide,logo/13e383993.png,101-150,Australia,au,7-8,,14.4,0,26.7,13.8,45.5,30.9
+The University of Glasgow,the-university-of-glasgow,logo-jpg/f072bed2b00.jpg,101-150,United Kingdom,gb,10-17,,7.2,0,28.9,18.9,43.1,24.8
+The University of Hong Kong,the-university-of-hong-kong,logo/cbf530ad3.png,101-150,China-Hong Kong,hk,1,,0,0,34.5,13.4,45.9,28.1
+The University of New South Wales,the-university-of-new-south-wales,logo/269ebda14.png,101-150,Australia,au,7-8,,0,0,18.9,19.2,62.1,25.2
+The University of Sheffield,the-university-of-sheffield,logo/08629522c.png,101-150,United Kingdom,gb,10-17,,17.6,13.1,18.9,17.1,45.9,23.5
+The University of Texas M. D. Anderson Cancer Center,the-university-of-texas-m-d-anderson-cancer-center,logo/1100fcdc8.png,101-150,United States,us,49-60,,0,0,36.2,20.6,41.5,50.5
+Tohoku University,tohoku-university,logo/cd197349d.png,101-150,Japan,jp,4-5,,14.4,0,18.9,18.1,51.4,21.6
+University of Alberta,university-of-alberta,logo/f1242c7ae.png,101-150,Canada,ca,5,,11.4,0,24.4,17.7,56.6,24.5
+University of Amsterdam,university-of-amsterdam,logo/054e1350c.png,101-150,Netherlands,nl,5-8,,5.1,0,30.9,20.4,53.5,30.7
+University of Bern,university-of-bern,logo/0881a5f78.png,101-150,Switzerland,ch,6,,12.4,0,32.7,24.8,43,34.8
+University of Birmingham,university-of-birmingham,logo/aac49270e.png,101-150,United Kingdom,gb,10-17,,18.3,9.3,28.9,12.4,46.7,24.2
+University of Bonn,university-of-bonn,logo/68c81f6c8.png,101-150,Germany,de,5-7,,15.2,19.5,24.4,20.5,39.1,27.4
+University of Frankfurt,goethe-university-frankfurt,logo/4c5e6a039.png,101-150,Germany,de,5-7,,30,0,26.7,20.2,37.5,27.1
+University of Freiburg,university-of-freiburg,logo/023a63f53.png,101-150,Germany,de,5-7,,18.3,18.6,18.9,17.4,38.8,25.7
+University of Leeds,university-of-leeds,logo/6dd8db10a.png,101-150,United Kingdom,gb,10-17,,16.8,0,32.7,20.5,44.9,24.3
+University of Liverpool,university-of-liverpool,logo/d951c4194.png,101-150,United Kingdom,gb,10-17,,16.8,13.1,15.4,19.4,43.9,24.8
+University of Nottingham,university-of-nottingham,logo/0bf332f99.png,101-150,United Kingdom,gb,10-17,,11.4,19.7,24.4,14.8,47.9,22.1
+University of Rochester,university-of-rochester,logo/9fac3887f.png,101-150,United States,us,49-60,,24.3,7.6,18.9,18.6,39.1,20.3
+University of Science and Technology of China,university-of-science-and-technology-of-china,logo/50132214.png,101-150,China,cn,3-6,,0,0,18.9,18.6,56,27
+University of Southampton,university-of-southampton,logo/ed12f6724.png,101-150,United Kingdom,gb,10-17,,0,0,28.9,22.2,48.8,26.2
+University of Strasbourg,university-of-strasbourg,logo/cffce1361.png,101-150,France,fr,4-6,,28.3,33.1,0,17.1,37.4,21.8
+University of Utah,university-of-utah,logo/755c0861c.png,101-150,United States,us,49-60,,0,11.4,26.7,25.7,49,24
+University of Wageningen,wageningen-university-research,logo/e48392d63.png,101-150,Netherlands,nl,5-8,,0,0,28.9,17.4,42.4,35.3
+University of Warwick,university-of-warwick,logo/90bb99399.png,101-150,United Kingdom,gb,10-17,,13.4,29.4,10.9,16.1,41.5,26.1
+University Paris Diderot - Paris 7,university-paris-diderot-paris-7,logo/e2dbeabe6.png,101-150,France,fr,4-6,,11.4,9.3,15.4,29.5,46.2,24.5
+VU University Amsterdam,vrije-universiteit-amsterdam,logo/9882fdffd.png,101-150,Netherlands,nl,5-8,,0,0,36.2,16,54.1,35.9
+Weizmann Institute of Science,weizmann-institute-of-science,logo/f5dfa93ce.png,101-150,Israel,il,2-3,,17.6,16.1,18.9,33.9,28,25.8
+Zhejiang University,zhejiang-university,logo/88311656.png,101-150,China,cn,3-6,,0,0,26.7,15.2,70.8,21.8
+China Medical University (Taichung),china-medical-university-taichung,logo/e4e511a59.png,151-200,China-Taiwan,tw,1-2,,0,0,37.8,2.1,32.1,35
+Curtin University,curtin-university,logo/99e4b9934.png,151-200,Australia,au,9-10,,0,0,21.8,13.6,42.1,29.1
+Delft University of Technology,delft-university-of-technology,logo/a0e573fe4.png,151-200,Netherlands,nl,9,,11.4,0,15.4,16.7,41.6,24.4
+Harbin Institute of Technology,harbin-institute-of-technology,logo/88331082.png,151-200,China,cn,7-9,,0,0,21.8,7.7,55.1,17.7
+Hokkaido University,hokkaido-university,logo/0ed9be4d1.png,151-200,Japan,jp,6-7,,11.4,16.1,10.9,13.2,43.6,20
+London School of Economics and Political Science,london-school-of-economics-and-political-science,logo/21a6b0778.png,151-200,United Kingdom,gb,18-20,,23.8,16.1,10.9,,29.7,28.1
+Macquarie University,macquarie-university,logo/b9794c3ca.png,151-200,Australia,au,9-10,,0,0,26.7,11.7,36.4,28.3
+National Taiwan University,national-taiwan-university,logo/075ca4af3.png,151-200,China-Taiwan,tw,1-2,,11.4,0,15.4,11.9,52.4,19.4
+Oregon State University,oregon-state-university,logo/5f1862f7c.png,151-200,United States,us,61-70,,10.2,0,18.9,21.2,37.1,23.3
+Queen Mary University of London,queen-mary-university-of-london,logo/7aaa63173.png,151-200,United Kingdom,gb,18-20,,17.6,0,21.8,15.8,38.1,23.6
+Sapienza University of Rome,sapienza-university-of-rome,logo/7ecaa1198.png,151-200,Italy,it,1-2,,11.4,13.1,0,9.3,52.7,19
+Sichuan University,sichuan-university,logo/75651370.png,151-200,China,cn,7-9,,0,0,15.4,8.6,57.5,17.4
+Sun Yat-sen University,sun-yat-sen-university,logo/46293852.png,151-200,China,cn,7-9,,0,0,15.4,11.5,59.5,19.3
+Technical University of Denmark,technical-university-of-denmark,logo/2a23ba513.png,151-200,Denmark,dk,3,,5.1,11.4,15.4,15.8,41.4,24.1
+Tel Aviv University,tel-aviv-university,logo/3384913de.png,151-200,Israel,il,4,,0,0,10.9,16.8,50.6,27
+The Chinese University of Hong Kong,the-chinese-university-of-hong-kong,logo/d7b4fe8fe.png,151-200,China-Hong Kong,hk,2,,0,13.9,18.9,10.8,44.2,25.7
+The University of Calgary,the-university-of-calgary,logo/2728e064d.png,151-200,Canada,ca,6-8,,0,0,26.7,13.7,46,21.4
+Tokyo Institute of Technology,tokyo-institute-of-technology,logo/b7135745d.png,151-200,Japan,jp,6-7,,12.4,29.4,0,14,38.3,28.8
+Trinity College Dublin,trinity-college-dublin,logo/a5359bee7.png,151-200,Ireland,ie,1,,15.2,13.1,21.8,15.3,31.9,22.3
+TU Dresden,tu-dresden,logo-jpg/fce781c0600.jpg,151-200,Germany,de,8-15,,0,0,26.7,17.4,42.7,26.5
+Tufts University,tufts-university,logo/a74ac6721.png,151-200,United States,us,61-70,,18.3,16.1,18.9,13.9,34.3,25.7
+Université Grenoble Alpes,universit-grenoble-alpes,logo/85f28315e.png,151-200,France,fr,7-9,,0,14.7,0,23.9,46.3,20.3
+Université libre de Bruxelles (ULB),universit-libre-de-bruxelles-ulb,logo/64cca2113.png,151-200,Belgium,be,4,,19.7,26.3,0,13.7,32.9,31
+University of Bordeaux,university-of-bordeaux,logo/31283162c.png,151-200,France,fr,7-9,,0,0,24.4,16.8,40.4,19.4
+University of California - Riverside,university-of-california-riverside,logo/5f4516909.png,151-200,United States,us,61-70,,12.4,0,26.7,19.4,33.6,26.7
+University of Delaware,university-of-delaware,logo/0837d432d.png,151-200,United States,us,61-70,,10.2,16.1,15.4,10.2,32.8,19.8
+University of Erlangen-Nuremberg,university-of-erlangen-nuremberg,logo/afb3d8190.png,151-200,Germany,de,8-15,,0,0,24.4,14.5,40.8,24.7
+University of Exeter,university-of-exeter,logo/e757ee576.png,151-200,United Kingdom,gb,18-20,,0,0,26.7,18.6,36.9,25.5
+University of Gothenburg,university-of-gothenburg,logo/2419f8b06.png,151-200,Sweden,se,5,,0,15.2,15.4,14.7,42.9,20.7
+University of Hamburg,university-of-hamburg,logo/1f501fa40.png,151-200,Germany,de,8-15,,11.4,0,15.4,21.5,37.4,23.1
+University of Innsbruck,university-of-innsbruck,logo/28dbaa74d.png,151-200,Austria,at,1-2,,0,9.3,21.8,18.7,26.2,28.3
+University of Iowa,university-of-iowa,logo/64ddaf953.png,151-200,United States,us,61-70,,0,0,21.8,16.7,44.4,17.7
+Kiel University,university-of-kiel,logo/0247385d2.png,151-200,Germany,de,8-15,,10.2,13.1,18.9,12,30.9,20.3
+University of Lausanne,university-of-lausanne,logo/5051a54b0.png,151-200,Switzerland,ch,7,,0,0,24.4,21.9,35.8,24.4
+University of Leipzig,university-of-leipzig,logo/95371c744.png,151-200,Germany,de,8-15,,11.4,13.1,18.9,10.4,32.9,21
+University of Lisbon,university-of-lisbon,logo/5be973b27.png,151-200,Portugal,pt,1,,0,8,10.9,10.4,48.8,25.7
+University of Massachusetts Amherst,university-of-massachusetts-amherst,logo/cc867307c.png,151-200,United States,us,61-70,,13.4,0,28.9,17.4,37.5,24
+University of Massachusetts Chan Medical School,university-of-massachusetts-medical-school-worcester,logo/c2a3365ca.png,151-200,United States,us,61-70,,0,19.7,15.4,23.7,27.9,22.3
+University of Miami,university-of-miami,logo/bbb3b957a.png,151-200,United States,us,61-70,,0,0,24.4,15.2,41.2,21.8
+University of Montreal,university-of-montreal,logo/b0c53560f.png,151-200,Canada,ca,6-8,,11.4,0,10.9,15.7,50.5,22.1
+University of Muenster,university-of-muenster,logo-jpg/99b87390900.jpg,151-200,Germany,de,8-15,,19,13.1,15.4,16.5,35.3,22.8
+University of Nebraska - Lincoln,university-of-nebraska-lincoln,logo/49b53c7ad.png,151-200,United States,us,61-70,,16.8,0,21.8,14.1,36.1,22.1
+University of Ottawa,university-of-ottawa,logo/eaae11f5f.png,151-200,Canada,ca,6-8,,0,0,21.8,16.7,46.1,22.9
+University of Padua,university-of-padua,logo/290d176ce.png,151-200,Italy,it,1-2,,0,0,15.4,14.7,50.2,22.5
+University of Paris Descartes (Paris 5),university-of-paris-descartes-paris-5,logo/235b7fe5f.png,151-200,France,fr,7-9,,11.4,9.3,24.4,11.1,42.5,22.8
+University of Sao Paulo,university-of-sao-paulo,logo/439ebbf7b.png,151-200,Brazil,br,1,,0,0,0,14.2,75.1,16.9
+University of Tuebingen,university-of-tuebingen,logo/ffb5a5c9e.png,151-200,Germany,de,8-15,,22.1,0,15.4,16.9,42.2,25.1
+University of Vienna,university-of-vienna,logo/442aa1711.png,151-200,Austria,at,1-2,,13.4,0,21.8,20.7,38.1,27.4
+University of Virginia,university-of-virginia,logo/3d702cdba.png,151-200,United States,us,61-70,,0,0,15.4,26.1,44.5,18.9
+University of Wuerzburg,university-of-wuerzburg,logo/90768ed0f.png,151-200,Germany,de,8-15,,19,0,21.8,15.1,33.3,22.2
+Aalborg University,aalborg-university,logo/9da905b7f.png,201-300,Denmark,dk,4,,0,0,26.7,6.3,34,21.7
+Beijing Normal University,beijing-normal-university,logo/38816505.png,201-300,China,cn,10-18,,15.2,0,15.4,6.9,41.3,17.9
+Chalmers University of Technology,chalmers-university-of-technology,logo/9ded22865.png,201-300,Sweden,se,6-9,,0,0,18.9,11.8,30,24.4
+Charles University in Prague,charles-university-in-prague,logo/b21d1a50b.png,201-300,Czech Republic,cz,1,,8.8,0,15.4,8.7,45.7,19.6
+City University of Hong Kong,city-university-of-hong-kong,logo/ed73d6ca9.png,201-300,China-Hong Kong,hk,3-5,,0,0,28.9,3.3,38.8,26.5
+Claude Bernard University Lyon 1,claude-bernard-university-lyon-1,logo/bfcb2841f.png,201-300,France,fr,10-14,,10.2,0,10.9,20.3,42.4,19.8
+Colorado State University,colorado-state-university,logo/5890dd554.png,201-300,United States,us,71-99,,0,0,10.9,16.5,36.7,19.1
+Dartmouth College,dartmouth-college,logo/cd738deeb.png,201-300,United States,us,71-99,,17.6,0,18.9,13.3,25.8,21.3
+Deakin University,deakin-university,logo/b20086809.png,201-300,Australia,au,11-14,,0,0,24.4,9.8,38.8,25.8
+Drexel University,drexel-university,logo/7dddd2afc.png,201-300,United States,us,71-99,,0,0,21.8,9.4,30.6,22.1
+Durham University,durham-university,logo/110e53af0.png,201-300,United Kingdom,gb,21-28,,0,0,21.8,16.3,35.2,22.8
+Ecole Normale Superieure - Lyon,ecole-normale-superieure-lyon,logo/1499c2d6e.png,201-300,France,fr,10-14,,0,19.7,0,11.7,23.3,36.4
+Florida State University,florida-state-university,logo/731b432f8.png,201-300,United States,us,71-99,,0,0,10.9,15.4,39.1,19.8
+George Mason University,george-mason-university,logo/ba8ac68f7.png,201-300,United States,us,71-99,,0,31.5,0,6.3,28.1,19.2
+Georgetown University,georgetown-university,logo/5c9d5401d.png,201-300,United States,us,71-99,,0,0,26.7,6.2,31.9,23.1
+Hanyang University,hanyang-university,logo/33d276332.png,201-300,South Korea,kr,2-6,,0,0,15.4,8.7,42.1,22
+Huazhong University of Science and Technology,huazhong-university-of-science-and-technology,logo/69664504.png,201-300,China,cn,10-18,,0,0,0,8.8,58.8,18.5
+Iowa State University,iowa-state-university,logo/7c94539cd.png,201-300,United States,us,71-99,,0,0,18.9,12.5,40,19.2
+Karlsruhe Institute of Technology (KIT),karlsruhe-institute-of-technology-kit,logo/673bb8044.png,201-300,Germany,de,16-22,,0,0,15.4,11.2,38.4,21.3
+King Abdullah University of Science and Technology,king-abdullah-university-of-science-and-technology,logo/aebd2c07c.png,201-300,Saudi Arabia,sa,3,,0,0,30.9,13.7,25.8,21.1
+Korea Advanced Institute of Science and Technology,korea-advanced-institute-of-science-and-technology,logo/8f3ceaab6.png,201-300,South Korea,kr,2-6,,0,0,15.4,14.6,40.2,27.9
+Korea University,korea-university,logo/8310aa48b.png,201-300,South Korea,kr,2-6,,0,0,10.9,8.8,53.5,22.2
+KTH Royal Institute of Technology,kth-royal-institute-of-technology,logo/2f5376155.png,201-300,Sweden,se,6-9,,0,14.7,0,11.5,40,27.8
+Kyushu University,kyushu-university,logo/d57292828.png,201-300,Japan,jp,8-9,,0,0,10.9,11.3,45.4,18.6
+Linkoping University,linkoping-university,logo/7648d845d.png,201-300,Sweden,se,6-9,,0,0,18.9,8.4,35.5,20.4
+London School of Hygiene & Tropical Medicine,london-school-of-hygiene-tropical-medicine,logo/44c92e762.png,201-300,United Kingdom,gb,21-28,,7.2,0,21.8,10,34.9,33.3
+Maastricht University,maastricht-university,logo/92916ebea.png,201-300,Netherlands,nl,10,,0,0,15.4,4.9,43.2,27
+Medical University of South Carolina,medical-university-of-south-carolina,logo/34694e611.png,201-300,United States,us,71-99,,0,0,15.4,6.9,31.5,40.7
+Medical University of Vienna,medical-university-of-vienna,logo/8c654cbfd.png,201-300,Austria,at,3,,8.8,9.3,15.4,11,33.4,20.4
+Nanjing University,nanjing-university,logo/44696062.png,201-300,China,cn,10-18,,0,0,0,11,56.9,20.6
+National Autonomous University of Mexico,national-autonomous-university-of-mexico,logo/22d59f1cc.png,201-300,Mexico,mx,1,,12.4,0,0,10.4,50.6,26
+Newcastle University,newcastle-university,logo-jpg/0503dcf9e00.jpg,201-300,United Kingdom,gb,21-28,,0,0,15.4,15.8,40.6,21.4
+North Carolina State University - Raleigh,north-carolina-state-university-raleigh,logo/1df34c570.png,201-300,United States,us,71-99,,0,0,18.9,15,42.4,19.3
+Northeastern University (Boston),northeastern-university-boston,logo/ba7ef1f93.png,201-300,United States,us,71-99,,0,0,15.4,17.6,32.1,21.7
+Oregon Health and Science University,oregon-health-and-science-university,logo/e0d414de9.png,201-300,United States,us,71-99,,0,0,15.4,24.5,35.4,21.5
+Paul Sabatier University (Toulouse 3),paul-sabatier-university-toulouse-3,logo/0e606f4e4.png,201-300,France,fr,10-14,,0,0,18.9,19.2,37.4,18.1
+Polytechnic Institute of Milan,polytechnic-university-of-milan,logo/84ea078dc.png,201-300,Italy,it,3-7,,7.2,14.7,10.9,7.1,34,20.3
+Pompeu Fabra University,pompeu-fabra-university,logo-jpg/36552d92b00.jpg,201-300,Spain,es,1-3,,0,0,10.9,20.1,27.8,37.7
+Queen's University,queens-university,logo/cf8e155e5.png,201-300,Canada,ca,9-11,,0,20.8,0,9,33.4,22.3
+Queensland University of Technology,queensland-university-of-technology,logo/1bf5888c9.png,201-300,Australia,au,11-14,,0,0,18.9,4.9,38.4,22.2
+RWTH Aachen University,rwth-aachen-university,logo/577d10b40.png,201-300,Germany,de,16-22,,0,0,18.9,6.4,43,23.5
+Soochow University,soochow-university-china,logo/44374737.png,201-300,China,cn,10-18,,0,0,18.9,7.7,45.4,17.4
+South China University of Technology,south-china-university-of-technology,logo/69348939.png,201-300,China,cn,10-18,,0,0,24.4,2.9,45.3,19.1
+Southeast University,southeast-university,logo/82819451.png,201-300,China,cn,10-18,,0,0,18.9,4.3,48.3,18.4
+Stony Brook University,stony-brook-university,logo/38db338eb.png,201-300,United States,us,71-99,,0,0,10.9,20.9,37.7,17.6
+Sungkyunkwan University,sungkyunkwan-university,logo/13a2c1830.png,201-300,South Korea,kr,2-6,,0,0,10.9,12.2,50.8,21.6
+Swedish University of Agricultural Sciences,swedish-university-of-agricultural-sciences,logo/e61844540.png,201-300,Sweden,se,6-9,,0,0,18.9,13.4,30.1,31.3
+The Hong Kong Polytechnic University,the-hong-kong-polytechnic-university,logo/bb2e43056.png,201-300,China-Hong Kong,hk,3-5,,0,0,21.8,3.6,41.3,25.7
+The Hong Kong University of Science and Technology,the-hong-kong-university-of-science-and-technology,logo/1869ca1ad.png,201-300,China-Hong Kong,hk,3-5,,0,0,21.8,9.2,33.9,28.4
+The University of Auckland,the-university-of-auckland,logo/05b4edbf7.png,201-300,New Zealand,nz,1,,13.4,0,10.9,10,42.7,21.1
+The University of Dundee,the-university-of-dundee,logo/c0cd8c2bb.png,201-300,United Kingdom,gb,21-28,,0,0,21.8,16.8,24.3,26.3
+The University of Georgia,the-university-of-georgia,logo/4cb4fc994.png,201-300,United States,us,71-99,,0,0,15.4,16.8,43.8,18.3
+The University of Reading,the-university-of-reading,logo/2bfe83c14.png,201-300,United Kingdom,gb,21-28,,0,0,28.9,10.7,28.4,25.7
+The University of Texas at Dallas,the-university-of-texas-at-dallas,logo/f4bd79613.png,201-300,United States,us,71-99,,13.4,0,15.4,10.6,29.7,24.5
+The University of Texas Health Science Center at San Antonio,the-university-of-texas-health-science-center-at-san-antonio,logo-jpg/86d630cf700.jpg,201-300,United States,us,71-99,,0,0,28.9,8.1,24.9,22.1
+University at Buffalo - the State University of New York,university-at-buffalo-the-state-university-of-new-york,logo/7a306da0a.png,201-300,United States,us,71-99,,0,0,18.9,11.6,39.5,17.6
+University of Aberdeen,university-of-aberdeen,logo/0717053d3.png,201-300,United Kingdom,gb,21-28,,0,13.1,15.4,11.7,31.3,22.4
+University of Alabama at Birmingham,university-of-alabama-at-birmingham,logo/bd261e772.png,201-300,United States,us,71-99,,0,0,18.9,9.4,41.7,15.8
+University of Antwerp,university-of-antwerp,logo/9bd98c131.png,201-300,Belgium,be,5-6,,0,0,18.9,9.8,38,30
+University of Barcelona,university-of-barcelona,logo/bb05b95cc.png,201-300,Spain,es,1-3,,0,0,15.4,12.3,51,20.4
+University of Belgrade,university-of-belgrade,logo/cc21573e5.png,201-300,Serbia,rs,1,,0,0,15.4,4.5,43.6,23.1
+University of Bergen,university-of-bergen,logo/3c273bc4e.png,201-300,Norway,no,3,,0,0,15.4,14.1,38.1,21.9
+Ruhr University Bochum,university-of-bochum,logo/5ff18ee82.png,201-300,Germany,de,16-22,,0,0,18.9,9.3,35.1,20.3
+University of Bologna,university-of-bologna,logo/05d515e2f.png,201-300,Italy,it,3-7,,0,0,18.9,9,49.4,19.2
+University of Buenos Aires,university-of-buenos-aires,logo/3ec293867.png,201-300,Argentina,ar,1,,14.4,23.7,0,8,35.1,22
+University of Cologne,university-of-cologne,logo/0e5b47b25.png,201-300,Germany,de,16-22,,0,11.4,0,20.6,39.5,22.9
+University of Electronic Science and Technology of China,university-of-electronic-science-and-technology-of-china,logo/55538407.png,201-300,China,cn,10-18,,0,0,24.4,3.6,38.9,17.9
+University of Granada,university-of-granada,logo/ae3e5b29e.png,201-300,Spain,es,1-3,,0,0,24.4,6.2,40.3,16.4
+University of Hawaii at Manoa,university-of-hawaii-at-manoa,logo/71999f015.png,201-300,United States,us,71-99,,0,0,18.9,21.6,35.3,21.2
+University of Houston,university-of-houston,logo/b1fdf2977.png,201-300,United States,us,71-99,,0,0,18.9,11.1,38.6,21.7
+University of Illinois at Chicago,university-of-illinois-at-chicago,logo/a3459f50d.png,201-300,United States,us,71-99,,0,0,18.9,12.2,44.7,18.8
+University of Jena,university-of-jena,logo/8e04e3dbe.png,201-300,Germany,de,16-22,,0,0,18.9,12.3,32.9,19.8
+University of Kansas,university-of-kansas,logo/bd525bf4e.png,201-300,United States,us,71-99,,17.6,0,15.4,13,41.2,16.5
+University of Lorraine,university-of-lorraine,logo/0f0c19e32.png,201-300,France,fr,10-14,,11.4,16.1,10.9,10.8,34.8,13.6
+University of Mainz,university-of-mainz,logo/44fd66a86.png,201-300,Germany,de,16-22,,0,7.6,10.9,18,36.4,21.2
+University of Maryland - Baltimore,university-of-maryland-baltimore,logo/a3b6c7955.png,201-300,United States,us,71-99,,0,0,26.7,13.9,36.6,18.4
+University of Milan,university-of-milan,logo/22f0a5d5b.png,201-300,Italy,it,3-7,,16.8,0,10.9,9.5,48.3,22.7
+University of Missouri - Columbia,university-of-missouri-columbia,logo/84de5e5b1.png,201-300,United States,us,71-99,,8.8,0,10.9,10.8,39,16
+University of Montpellier,university-of-montpellier,logo/494a1c1f0.png,201-300,France,fr,10-14,,10.2,0,10.9,16.3,38.3,18
+University of Notre Dame,university-of-notre-dame,logo/11b8029f6.png,201-300,United States,us,71-99,,12.4,0,18.9,13.9,32,21
+University of Oregon,university-of-oregon,logo/87932f968.png,201-300,United States,us,71-99,,8.8,0,15.4,14,28.7,20.3
+University of Pisa,university-of-pisa,logo/a979256d7.png,201-300,Italy,it,3-7,,13.4,22.8,0,5.9,38.5,23.1
+University of South Florida,university-of-south-florida,logo/5a874adcf.png,201-300,United States,us,71-99,,0,0,21.8,8.5,39.8,19.4
+University of Sussex,university-of-sussex,logo-jpg/a488c8b5400.jpg,201-300,United Kingdom,gb,21-28,,0,22.1,0,12,31.6,24.1
+University of Tasmania,university-of-tasmania,logo/543d80c32.png,201-300,Australia,au,11-14,,0,0,15.4,14.2,32.4,26
+University of Tennessee - Knoxville,university-of-tennessee-knoxville,logo/27a58d8fe.png,201-300,United States,us,71-99,,10.2,0,10.9,14.9,41.2,20.1
+University of the Witwatersrand,university-of-the-witwatersrand,logo-jpg/945a175ff00.jpg,201-300,South Africa,za,1,,18.3,0,15.4,10.8,36.7,21.5
+University of Tsukuba,university-of-tsukuba,logo/a1d685faa.png,201-300,Japan,jp,8-9,,0,19.3,0,12.8,36.3,16.9
+University of Turin,university-of-turin,logo/1d6abed85.png,201-300,Italy,it,3-7,,15.2,0,15.4,7,42.4,21
+University of Ulm,university-of-ulm,logo/73fcbe7b7.png,201-300,Germany,de,16-22,,0,0,21.8,13.1,31.3,20.1
+University of Waterloo,university-of-waterloo,logo/afeac310e.png,201-300,Canada,ca,9-11,,0,0,18.9,13.9,42.5,22.5
+University of Wollongong,university-of-wollongong,logo/60cbe9b79.png,201-300,Australia,au,11-14,,0,0,18.9,12.1,35.3,26.5
+University of York,university-of-york,logo/37e99d3e3.png,201-300,United Kingdom,gb,21-28,,0,0,15.4,15.1,33.8,21.7
+Virginia Commonwealth University,virginia-commonwealth-university,logo/060382474.png,201-300,United States,us,71-99,,10.2,13.9,18.9,6.6,35.6,15.7
+Vrije Universiteit Brussel (VUB),vrije-universiteit-brussel-vub,logo/de2977e90.png,201-300,Belgium,be,5-6,,13.4,0,10.9,11.4,32.6,29.2
+Western University,western-university,logo/c29ef8efe.png,201-300,Canada,ca,9-11,,0,0,15.4,10.3,43.6,20.4
+Wuhan University,wuhan-university,logo/46182017.png,201-300,China,cn,10-18,,0,0,10.9,4.4,51.7,15.5
+Xian Jiao Tong University,xian-jiaotong-university,logo/77584005.png,201-300,China,cn,10-18,,0,0,10.9,9.1,56.7,20.6
+Yeshiva University,yeshiva-university,logo/4f1519bae.png,201-300,United States,us,71-99,,0,0,10.9,22.7,32.7,23.2
+Yonsei University,yonsei-university,logo/9aca43746.png,201-300,South Korea,kr,2-6,,0,0,10.9,5.7,54.5,21
+Autonomous University of Barcelona,autonomous-university-of-barcelona,logo/ae2a39e54.png,301-400,Spain,es,4-7,,0,0,0,13.2,46.3,21.6
+Autonomous University of Madrid,autonomous-university-of-madrid,logo/1ae8d6f97.png,301-400,Spain,es,4-7,,0,0,10.9,12.4,39,18.7
+Beihang University,beihang-university,logo/22403670.png,301-400,China,cn,19-33,,0,0,0,6.9,44.2,18
+Boston College,boston-college,logo/cb78bc576.png,301-400,United States,us,100-119,,0,0,10.9,15.4,24.6,17.1
+Brandeis University,brandeis-university,logo/c824fcc8e.png,301-400,United States,us,100-119,,19,0,10.9,16.9,18.8,26.5
+Brigham Young University,brigham-young-university,logo/02ae869f0.png,301-400,United States,us,100-119,,8.8,0,15.4,8,25.7,13.8
+Capital Medical University,capital-medical-university,logo/63885672.png,301-400,China,cn,19-33,,0,0,0,2.8,41,36
+Central South University,central-south-university,logo/65984093.png,301-400,China,cn,19-33,,0,0,0,2.9,54.1,18.3
+Chang Gung University,chang-gung-university,logo/5972c7637.png,301-400,China-Taiwan,tw,3-6,,0,0,10.9,2.3,35.3,23.8
+Chiba University,chiba-university,logo/3a9c29fe2.png,301-400,Japan,jp,10-13,,0,0,15.4,10,28.7,17.4
+China University of Geosciences,china-university-of-geosciences-wuhan,logo/25952542.png,301-400,China,cn,19-33,,0,0,21.8,7.9,27.6,16.8
+Complutense University of Madrid,complutense-university-of-madrid,logo/5d01436ca.png,301-400,Spain,es,4-7,,19,0,0,9.8,41.9,13.5
+Dalhousie University,dalhousie-university,logo/3cae36dc6.png,301-400,Canada,ca,12-17,,12.4,0,0,12.5,34.6,18.5
+Dalian University of Technology,dalian-university-of-technology,logo/54289554.png,301-400,China,cn,19-33,,0,0,10.9,6.3,43.9,17.5
+East China University of Science and Technology,east-china-university-of-science-and-technology,logo/93042584.png,301-400,China,cn,19-33,,0,0,15.4,3.8,36.4,18.2
+Eindhoven University of Technology,eindhoven-university-of-technology,logo-jpg/0b4b50b9c00.jpg,301-400,Netherlands,nl,11-12,,0,0,18.9,8.6,31.1,24.8
+ESPCI ParisTech,espci-paris,logo/1eea04139.png,301-400,France,fr,15-17,,7.2,18.6,0,12.5,14.8,31.7
+Federal University of Rio de Janeiro,federal-university-of-rio-de-janeiro,logo/c7c76aed0.png,301-400,Brazil,br,2-3,,0,0,0,9.6,41.8,21.3
+Griffith University,griffith-university,logo/bdd9a6db5.png,301-400,Australia,au,15-21,,0,0,0,9.8,39.9,21.6
+Hannover Medical School,hannover-medical-school,logo-jpg/8ca7c1eca00.jpg,301-400,Germany,de,23-26,,0,0,15.4,10.3,30.9,17.9
+Hiroshima University,hiroshima-university,logo-jpg/f1e5ef22b00.jpg,301-400,Japan,jp,10-13,,0,0,15.4,8.2,32.7,16.3
+Hunan University,hunan-university,logo/79015808.png,301-400,China,cn,19-33,,0,0,10.9,2.8,37.6,17.8
+Indian Institute of Science,indian-institute-of-science,logo/f973a1877.png,301-400,India,in,1,,0,0,10.9,2.8,39.4,20.3
+Indiana University-Purdue University at Indianapolis,indiana-university-purdue-university-at-indianapolis,logo/0d566a3be.png,301-400,United States,us,100-119,,0,0,10.9,12.3,39.5,14.9
+James Cook University,james-cook-university,logo/78cde8bfd.png,301-400,Australia,au,15-21,,0,0,10.9,15.6,28.2,26
+Jilin University,jilin-university,logo/76557044.png,301-400,China,cn,19-33,,0,0,0,9.3,54.8,14.9
+Keio University,keio-university,logo-jpg/dc415a48e00.jpg,301-400,Japan,jp,10-13,,0,0,10.9,10.8,34,14.6
+La Trobe University,la-trobe-university,logo/8bd69d24a.png,301-400,Australia,au,15-21,,0,0,18.9,8,31.6,27.5
+Lancaster University,lancaster-university,logo/e4c52cb63.png,301-400,United Kingdom,gb,29-34,,0,0,15.4,9.6,32.9,20.9
+Lanzhou University,lanzhou-university,logo/84317715.png,301-400,China,cn,19-33,,0,0,10.9,5.7,40,19.1
+Laval University,laval-university,logo/2a9c8ff20.png,301-400,Canada,ca,12-17,,0,0,10.9,8.4,38.8,17.3
+Louisiana State University - Baton Rouge,louisiana-state-university-baton-rouge,logo/12298bd99.png,301-400,United States,us,100-119,,0,0,10.9,11.6,34.5,18.3
+Nankai University,nankai-university,logo/44629152.png,301-400,China,cn,19-33,,0,0,10.9,5.4,38.1,15.6
+National and Kapodistrian University of Athens,national-and-kapodistrian-university-of-athens,logo/95cce01c7.png,301-400,Greece,gr,1,,0,0,15.4,4.9,37,20.1
+National Cheng Kung University (NCKU),national-cheng-kung-university-ncku,logo/9b8894137.png,301-400,China-Taiwan,tw,3-6,,0,0,10.9,6.5,38.7,17.4
+National Chiao Tung University,national-chiao-tung-university,logo/eb4a9490e.png,301-400,China-Taiwan,tw,3-6,,0,0,10.9,8.5,30.6,19.7
+National Tsing Hua University,national-tsing-hua-university,logo/c981ecb43.png,301-400,China-Taiwan,tw,3-6,,12.4,0,0,12.3,30.7,20.9
+University of Galway,national-university-of-ireland-galway,logo/94f753bbd.png,301-400,Ireland,ie,2-3,,0,0,21.8,6.8,22.7,16
+Ocean University of China,ocean-university-of-china,logo/53553512.png,301-400,China,cn,19-33,,0,0,10.9,9.3,31.5,17.1
+Okayama University,okayama-university,logo-jpg/a6b73044f00.jpg,301-400,Japan,jp,10-13,,0,0,15.4,9.8,28.9,14
+Paris Dauphine University (Paris 9),paris-dauphine-university-paris-9,logo/1c13b899c.png,301-400,France,fr,15-17,,20.3,26.3,0,0,14.5,29.1
+Pohang University of Science and Technology,pohang-university-of-science-and-technology,logo/a66a338cc.png,301-400,South Korea,kr,7,,0,0,10.9,13.7,30.5,32.7
+Queen's University Belfast,queens-university-belfast,logo/fae80f932.png,301-400,United Kingdom,gb,29-34,,17.6,0,0,11.2,32.3,18.7
+Saint Louis University,saint-louis-university,logo/fd492810c.png,301-400,United States,us,100-119,,0,11.4,15.4,4.5,25.4,14
+Saint Petersburg State University,saint-petersburg-state-university,logo-jpg/2b28ec0e900.jpg,301-400,Russia,ru,2,,26.4,0,0,7.1,34.3,19.7
+Shandong University,shandong-university,logo/97189370.png,301-400,China,cn,19-33,,0,0,0,1.5,58.2,17.3
+Swinburne University of Technology,swinburne-university-of-technology,logo/7399ab511.png,301-400,Australia,au,15-21,,0,0,18.9,9.4,25.1,26.7
+Temple University,temple-university,logo/dce115cfb.png,301-400,United States,us,100-119,,0,0,10.9,8.1,35.4,12.8
+The George Washington University,the-george-washington-university,logo/cb85da2ec.png,301-400,United States,us,100-119,,11.4,0,0,11.6,36.8,18.6
+The University of New Mexico - Albuquerque,the-university-of-new-mexico-albuquerque,logo/d7d1de5e4.png,301-400,United States,us,100-119,,0,0,10.9,16,36,16.4
+The University of Newcastle - Australia,the-university-of-newcastle-australia,logo/b2f27bb6a.png,301-400,Australia,au,15-21,,0,0,10.9,5.8,35.5,24.4
+The University of Texas Health Science Center at Houston,the-university-of-texas-health-science-center-at-houston,logo-jpg/cceffd11c00.jpg,301-400,United States,us,100-119,,0,15.2,0,13.7,33.4,15.3
+Tianjin University,tianjin-university,logo/74813674.png,301-400,China,cn,19-33,,0,0,0,6,53.2,20
+Tongji University,tongji-university,logo/39174907.png,301-400,China,cn,19-33,,0,0,0,9.8,51.4,17.9
+Umea University,umea-university,logo/bb8830f26.png,301-400,Sweden,se,10,,0,0,10.9,11.5,34.3,18.5
+Sao Paulo State University,unesp,logo/26a725267.png,301-400,Brazil,br,2-3,,0,0,0,6.1,45.5,22.8
+University College Dublin,university-college-dublin,logo/6b943a3b2.png,301-400,Ireland,ie,2-3,,0,0,15.4,8.6,35.5,19.7
+University of Cape Town,university-of-cape-town,logo/232448cdc.png,301-400,South Africa,za,2,,18.3,0,0,12.1,39.9,21.7
+University of Central Florida,university-of-central-florida,logo/813d8d7eb.png,301-400,United States,us,100-119,,0,0,10.9,8.9,31,17.5
+University of Chile,university-of-chile,logo/adca05d09.png,301-400,Chile,cl,1,,7.2,0,0,10.9,35.6,18.7
+University of Cincinnati,university-of-cincinnati,logo/c5bf6b999.png,301-400,United States,us,100-119,,0,0,15.4,9.9,39.1,15.8
+University of Colorado at Denver,university-of-colorado-at-denver,logo/69b80bb67.png,301-400,United States,us,100-119,,0,0,18.9,13.5,30.1,12.1
+University of Connecticut,university-of-connecticut,logo/4e4033592.png,301-400,United States,us,100-119,,11.4,0,0,11.4,36.1,14
+University of Duesseldorf,heinrich-heine-university-duesseldorf,logo/23cac266a.png,301-400,Germany,de,23-26,,11.4,0,10.9,11.1,30.8,17.6
+University of East Anglia,university-of-east-anglia,logo/651b3ae7e.png,301-400,United Kingdom,gb,29-34,,13.4,0,10.9,14.5,28.7,22.6
+University of Eastern Finland,university-of-eastern-finland,logo-jpg/161979ad200.jpg,301-400,Finland,fi,2,,0,0,15.4,6.1,29.6,16.8
+University of Florence,university-of-florence,logo/ffc7827db.png,301-400,Italy,it,8-12,,0,0,10.9,9.8,39.7,19.1
+University of Guelph,university-of-guelph,logo/a21571dd0.png,301-400,Canada,ca,12-17,,0,0,18.9,9.4,31.2,20.4
+University of Halle-Wittenberg,university-of-halle-wittenberg,logo/5f7377c92.png,301-400,Germany,de,23-26,,0,6.6,10.9,8.8,25.9,15
+University of Kentucky,university-of-kentucky,logo/7db3d518b.png,301-400,United States,us,100-119,,10.2,0,0,11.7,40.6,17
+University of Leicester,university-of-leicester,logo/33601d56d.png,301-400,United Kingdom,gb,29-34,,0,0,10.9,18.1,31,20.3
+University of Liege,university-of-liege,logo/9d643c9ae.png,301-400,Belgium,be,7,,7.2,0,0,13.7,31.8,23.7
+University of Manitoba,university-of-manitoba,logo/b66139813.png,301-400,Canada,ca,12-17,,0,0,10.9,7.7,35.8,17.3
+University of Milan - Bicocca,university-of-milano-bicocca,logo-jpg/b412ab39400.jpg,301-400,Italy,it,8-12,,0,0,10.9,5.5,32,22.6
+University of Naples Federico II,university-of-naples-federico-ii,logo/05e74c379.png,301-400,Italy,it,8-12,,0,0,10.9,4.9,43.5,18.1
+University of North Texas,university-of-north-texas,logo/3d568898f.png,301-400,United States,us,100-119,,0,0,18.9,4.5,26.4,18.6
+University of Otago,university-of-otago,logo-jpg/872fa062700.jpg,301-400,New Zealand,nz,2-3,,0,0,10.9,8.3,35.5,21.3
+University of Pavia,university-of-pavia,logo/2e32ad78d.png,301-400,Italy,it,8-12,,0,0,21.8,5.8,31.6,23.8
+University of Porto,university-of-porto,logo-jpg/d9082956b00.jpg,301-400,Portugal,pt,2,,0,0,0,11.3,44.6,22.9
+University of Roma - Tor Vergata,university-of-roma-tor-vergata,logo/71a9fac11.png,301-400,Italy,it,8-12,,0,0,10.9,5.1,34.1,20.3
+University of Santiago Compostela,university-of-santiago-compostela,logo/34c4152c0.png,301-400,Spain,es,4-7,,0,0,15.4,6.9,31.3,15.5
+University of Saskatchewan,university-of-saskatchewan,logo/23b948bb0.png,301-400,Canada,ca,12-17,,8.8,0,10.9,8.1,33.2,17.6
+University of South Carolina - Columbia,university-of-south-carolina-columbia-1,logo/04f169eee.png,301-400,United States,us,100-119,,0,0,10.9,8.2,36.9,17.2
+University of Southern Denmark,university-of-southern-denmark,logo/8c66c5a09.png,301-400,Denmark,dk,5,,0,0,0,9.7,39.5,20.2
+University of St Andrews,university-of-st-andrews,logo/761c4f7b4.png,301-400,United Kingdom,gb,29-34,,10.2,0,0,17.9,30,22.8
+University of Stuttgart,university-of-stuttgart,logo/ec2ed2a28.png,301-400,Germany,de,23-26,,18.3,0,10.9,12.8,27.3,17.2
+University of Surrey,university-of-surrey,logo/bacc77614.png,301-400,United Kingdom,gb,29-34,,0,0,18.9,4.3,28.8,22.2
+University of Tartu,university-of-tartu,logo/d6c752216.png,301-400,Estonia,ee,1,,0,0,18.9,11.3,26.3,17
+University of Technology Sydney,university-of-technology-sydney,logo/1778c7bfd.png,301-400,Australia,au,15-21,,0,0,15.4,5.3,32.6,21.7
+University of Tehran,university-of-tehran,logo/d58a4ccbc.png,301-400,Iran,ir,1,,12.4,0,0,1.5,42.4,21.5
+University of Toulouse 1,university-of-toulouse-1,logo/6da0d7101.png,301-400,France,fr,15-17,,0,29.4,0,,11.1,30.8
+University of Twente,university-of-twente,logo/e076f188c.png,301-400,Netherlands,nl,11-12,,0,0,15.4,9.1,32.2,24.5
+University of Vermont,university-of-vermont,logo/18f55f0bd.png,301-400,United States,us,100-119,,13.4,0,10.9,12.6,28,16.7
+University of Victoria,university-of-victoria,logo/68a72b0ef.png,301-400,Canada,ca,12-17,,0,0,18.9,12.3,30.3,22.2
+University of Warsaw,university-of-warsaw,logo/d42f67232.png,301-400,Poland,pl,1,,15.2,0,10.9,11.2,31.8,18.4
+University of Western Sydney,western-sydney-university,logo/eeb85af2c.png,301-400,Australia,au,15-21,,0,0,10.9,8.9,29.4,19.9
+Victoria University of Wellington,victoria-university-of-wellington,logo/74ea13be8.png,301-400,New Zealand,nz,2-3,,11.4,0,10.9,8.8,24.8,19.6
+Virginia Polytechnic Institute and State University,virginia-polytechnic-institute-and-state-university,logo/e010632dd.png,301-400,United States,us,100-119,,11.4,0,0,11.2,41.7,17.3
+Wayne State University,wayne-state-university,logo/26c477d65.png,301-400,United States,us,100-119,,0,0,10.9,4.3,37,15.5
+Xiamen University,xiamen-university,logo/14008229.png,301-400,China,cn,19-33,,0,0,0,10.8,43.8,16.2
+Aalto University,aalto-university,logo/699336500.png,401-500,Finland,fi,3-5,,0,0,0,11,34.4,17.9
+Amirkabir University of Technology,amirkabir-university-of-technology,logo/e887320e3.png,401-500,Iran,ir,2,,0,0,15.4,0,31.7,17.5
+Aristotle University of Thessaloniki,aristotle-university-of-thessaloniki,logo/ab4c53b55.png,401-500,Greece,gr,2-3,,0,0,10.9,2.6,33.8,17.7
+Bangor University,bangor-university,logo-jpg/4920618e000.jpg,401-500,United Kingdom,gb,35-38,,11.4,0,10.9,5.5,20.1,20
+Bar-Ilan University,bar-ilan-university,logo/ecb97f756.png,401-500,Israel,il,5-6,,0,0,10.9,8.3,29.5,16.1
+Ben-Gurion University of the Negev,ben-gurion-university-of-the-negev,logo/5daae2575.png,401-500,Israel,il,5-6,,0,0,0,9,34.4,17.7
+Bielefeld University,bielefeld-university,logo/f6151fa61.png,401-500,Germany,de,27-37,,0,0,15.4,7.2,22.4,14
+Brunel University London,brunel-university,logo/92f97cee2.png,401-500,United Kingdom,gb,35-38,,0,0,18.9,3.6,23.8,18.9
+Cairo University,cairo-university,logo/881613d6a.png,401-500,Egypt,eg,1,,19,0,0,3.1,34.5,18.5
+Catholic University of Chile,pontifical-catholic-university-of-chile,logo/3d8bbe26f.png,401-500,Chile,cl,2,,0,0,0,8.4,33.4,17.1
+China Agricultural University,china-agricultural-university,logo/48410070.png,401-500,China,cn,34-45,,0,0,0,12.5,35.6,15.5
+Chulalongkorn University,chulalongkorn-university,logo/45c4aa6d2.png,401-500,Thailand,th,1,,0,0,10.9,2.6,29.2,15.5
+City University of New York City College,the-city-college-of-new-york,logo/aa0b8f631.png,401-500,United States,us,120-135,,30.9,0,0,8.8,17.3,19
+Concordia University,concordia-university,logo/bb19a48f5.png,401-500,Canada,ca,18-19,,0,0,10.9,4.9,26.9,15.1
+East China Normal University,east-china-normal-university,logo/47430452.png,401-500,China,cn,34-45,,0,0,10.9,5.7,33.6,14
+Ecole Polytechnique,ecole-polytechnique,logo/a6f5d004d.png,401-500,France,fr,18-20,,21.5,0,0,9.2,25.2,22
+Ewha Womans University,ewha-womans-university,logo/bd7393899.png,401-500,South Korea,kr,8-12,,0,0,10.9,6.1,29.1,15.3
+Federal University of Minas Gerais,federal-university-of-minas-gerais,logo/7d91c3f4e.png,401-500,Brazil,br,4-6,,0,0,0,3.9,37.3,18.6
+Federal University of Rio Grande do Sul,federal-university-of-rio-grande-do-sul,logo/92d197a14.png,401-500,Brazil,br,4-6,,0,0,0,5.9,40.1,20.1
+Flinders University,flinders-university,logo/50d276a09.png,401-500,Australia,au,22-23,,15.2,0,0,7,31.2,23.6
+Florida International University,florida-international-university,logo/e03b0bdc8.png,401-500,United States,us,120-135,,0,0,10.9,6.9,30.1,16.7
+Gyeongsang National University,gyeongsang-national-university,logo/332df141d.png,401-500,South Korea,kr,8-12,,0,0,15.4,2.6,24.9,15.8
+Harbin Engineering University,harbin-engineering-university,logo/86980791.png,401-500,China,cn,34-45,,0,0,15.4,3.3,24.6,14
+Heriot-Watt University,heriot-watt-university,logo/67698e0b5.png,401-500,United Kingdom,gb,35-38,,0,0,10.9,7.1,22.5,18.7
+Huazhong Agricultural University,huazhong-agricultural-university,logo/20950268.png,401-500,China,cn,34-45,,0,0,10.9,8,31,16.8
+Istanbul University,istanbul-university,logo/3405657ab.png,401-500,Turkey,tr,1,,18.3,0,0,3.5,35.6,18.9
+Jagiellonian University,jagiellonian-university,logo/9d54e81f7.png,401-500,Poland,pl,2,,10.2,0,0,5.1,36.5,18.6
+Kaohsiung Medical University,kaohsiung-medical-university,logo/1b3220847.png,401-500,China-Taiwan,tw,7,,0,0,15.4,3.3,26.9,20.9
+Kent State University,kent-state-university,logo/d11e987c0.png,401-500,United States,us,120-135,,0,0,10.9,8.3,24,14.5
+King Fahd University of Petroleum & Minerals,king-fahd-university-of-petroleum-minerals,logo/d59953db0.png,401-500,Saudi Arabia,sa,4,,0,0,18.9,2.1,23.4,18.4
+Kobe University,kobe-university,logo/63bcf75c6.png,401-500,Japan,jp,14-17,,14.4,0,0,9.8,30.7,15.3
+Kyung Hee University,kyung-hee-university,logo/4143a0002.png,401-500,South Korea,kr,8-12,,0,0,0,4.5,38.8,15.9
+Kyungpook National University,kyungpook-national-university,logo-jpg/e8991aa3200.jpg,401-500,South Korea,kr,8-12,,0,0,10.9,2.9,35.9,16.2
+MINES ParisTech,mines-paristech,logo/89e2588e7.png,401-500,France,fr,18-20,,13.4,24.6,0,4.2,8.8,13.9
+Nanjing Agricultural University,nanjing-agricultural-university,logo/43891811.png,401-500,China,cn,34-45,,0,0,0,7.8,33.8,16.7
+Nanjing Medical University,nanjing-medical-university,logo/76762015.png,401-500,China,cn,34-45,,0,0,0,3.9,38.1,28.3
+Nanjing University of Aeronautics and Astronautics,nanjing-university-of-aeronautics-and-astronautics,logo-jpg/4506696400.jpg,401-500,China,cn,34-45,,0,0,15.4,0,32.8,15.5
+Nanjing University of Science and Technology,nanjing-university-of-science-and-technology,logo/38974419.png,401-500,China,cn,34-45,,0,0,10.9,3.3,33,15.8
+National Technical University of Athens,national-technical-university-of-athens,logo/b0a023231.png,401-500,Greece,gr,2-3,,0,0,21.8,0,26,16.9
+New Mexico State University,new-mexico-state-university,logo/ed65d3327.png,401-500,United States,us,120-135,,0,0,18.9,4.7,18.5,16
+Northeastern University (Shenyang),northeastern-university-shenyang,logo/79513869.png,401-500,China,cn,34-45,,0,0,10.9,0,34.3,14.3
+Northwest University,northwest-university,logo/15797720.png,401-500,China,cn,34-45,,0,0,10.9,3.6,27.8,16.2
+Novosibirsk State University,novosibirsk-state-university,logo/87be4aa46.png,401-500,Russia,ru,3,,13.4,0,0,5,31.6,16.6
+Oklahoma State University,oklahoma-state-university,logo/91ba5b49f.png,401-500,United States,us,120-135,,0,0,10.9,4.9,28.7,16.2
+Osaka City University,osaka-city-university,logo/73588af0c.png,401-500,Japan,jp,14-17,,15.2,0,10.9,5.1,20.3,15.1
+Peking Union Medical College,peking-union-medical-college,logo/81176996.png,401-500,China,cn,34-45,,0,0,0,10.6,37.1,17.7
+Polytechnic University of Valencia,polytechnic-university-of-valencia,logo-jpg/87bf0c60700.jpg,401-500,Spain,es,8-11,,0,0,10.9,7.5,32.4,15.3
+RMIT University,rmit-university,logo/a48f6656e.png,401-500,Australia,au,22-23,,0,0,10.9,3.6,32.4,19.5
+Rush University,rush-university,logo/7c8b443d8.png,401-500,United States,us,120-135,,0,0,18.9,3.6,24.8,17.4
+Simon Fraser University,simon-fraser-university,logo/adfc503d5.png,401-500,Canada,ca,18-19,,0,0,0,12.2,34,18.8
+St George's Hospital Medical School,st-georges-university-of-london,logo-jpg/510c6082100.jpg,401-500,United Kingdom,gb,35-38,,0,0,15.4,3.9,18.6,38.4
+Stellenbosch University,stellenbosch-university,logo/03915c560.png,401-500,South Africa,za,3-5,,0,0,10.9,5.5,32.8,17.4
+Stockholm School of Economics,stockholm-school-of-economics,logo/fefeec3fc.png,401-500,Sweden,se,11,,0,16.1,0,,9.6,41.2
+Technical University Darmstadt,technical-university-darmstadt,logo/a35de2656.png,401-500,Germany,de,27-37,,14.4,0,0,9.7,26.9,15.1
+Technical University of Berlin,technical-university-of-berlin,logo/e480d3fd9.png,401-500,Germany,de,27-37,,16.1,0,0,8.5,30.5,16.7
+The University of Texas at Arlington,the-university-of-texas-at-arlington,logo/7c2129da5.png,401-500,United States,us,120-135,,0,0,15.4,3.5,24.1,18.7
+The University of Texas Medical Branch at Galveston,the-university-of-texas-medical-branch-at-galveston,logo/8cf0f7193.png,401-500,United States,us,120-135,,0,0,10.9,9.6,22.6,18.4
+The University of Tokushima,the-university-of-tokushima,logo/7abd01cd9.png,401-500,Japan,jp,14-17,,13.4,0,10.9,6.5,19.9,16.2
+Thomas Jefferson University,thomas-jefferson-university,logo/de4a76b2c.png,401-500,United States,us,120-135,,0,0,10.9,6.4,27.2,29
+Tokyo University of Science,tokyo-university-of-science,logo/16303ca23.png,401-500,Japan,jp,14-17,,12.4,0,10.9,4.5,23.7,18.6
+Ulsan National Institute of Science and Technology,ulsan-national-institute-of-science-and-technology,logo-jpg/e95f5525700.jpg,401-500,South Korea,kr,8-12,,0,0,21.8,3.9,18.8,27.1
+Universitat Jaume I,universitat-jaume-i,logo-jpg/641483fb200.jpg,401-500,Spain,es,8-11,,0,0,18.9,1.5,21.4,21.4
+University at Albany (State University of New York),university-at-albany-state-university-of-new-york,logo/3cc2bc883.png,401-500,United States,us,120-135,,0,0,10.9,7.8,26.9,19.4
+University of Aveiro,university-of-aveiro,logo/bd2ce4300.png,401-500,Portugal,pt,3-5,,0,0,10.9,3.6,30.7,16.3
+University of Bayreuth,university-of-bayreuth,logo/139a66e3f.png,401-500,Germany,de,27-37,,0,0,10.9,14.1,23,14.4
+University of Bremen,university-of-bremen,logo/03ecf2289.png,401-500,Germany,de,27-37,,0,0,0,13.7,30,16.4
+University of Campinas,university-of-campinas,logo/aa0513029.png,401-500,Brazil,br,4-6,,0,0,0,4.2,42.5,21.2
+University of Canterbury,university-of-canterbury,logo/7717286a5.png,401-500,New Zealand,nz,4,,0,0,15.4,7.4,24.3,22.7
+University of Coimbra,university-of-coimbra,logo/7d6ada42c.png,401-500,Portugal,pt,3-5,,0,0,0,7.9,34,17.4
+University of Ferrara,university-of-ferrara,logo/bc02ceb50.png,401-500,Italy,it,13-16,,0,0,10.9,4.7,25.5,21.7
+University of Fribourg,university-of-fribourg,logo/1c18d27a3.png,401-500,Switzerland,ch,8,,0,0,18.9,8.3,20.7,21.5
+University of Hannover,leibniz-university-hannover,logo/1c84e8f45.png,401-500,Germany,de,27-37,,0,0,10.9,7.1,26.1,14.5
+University of Iceland,university-of-iceland,logo/9a47b4e40.png,401-500,Iceland,is,1,,0,0,10.9,9.9,23.3,13.7
+University of Johannesburg,university-of-johannesburg,logo/b1ecd730f.png,401-500,South Africa,za,3-5,,0,0,18.9,0,26.6,16.2
+University of Konstanz,university-of-konstanz,logo/f7c03d40b.png,401-500,Germany,de,27-37,,0,0,10.9,14.5,23.6,14.8
+University of KwaZulu-Natal,university-of-kwazulu-natal,logo/c071bca77.png,401-500,South Africa,za,3-5,,0,0,0,8.2,33.6,17.2
+University of Ljubljana,university-of-ljubljana,logo/80e7fc5ba.png,401-500,Slovenia,si,1,,0,0,0,8,35,15
+University of Malaya,university-of-malaya,logo/baa2b4f77.png,401-500,Malaysia,my,1-2,,0,0,0,2.3,45.4,22.6
+University of Marburg,university-of-marburg,logo/56c888eab.png,401-500,Germany,de,27-37,,10.2,0,0,14.4,28.7,16.4
+University of Minho,university-of-minho,logo/09c565a13.png,401-500,Portugal,pt,3-5,,0,0,10.9,3.5,30.1,16
+University of Montana - Missoula,university-of-montana-missoula,logo/0034300e0.png,401-500,United States,us,120-135,,5.1,0,15.4,11.7,17.5,18
+University of New Hampshire - Durham,university-of-new-hampshire,logo/b88720b82.png,401-500,United States,us,120-135,,0,0,15.4,10.9,23,18.3
+University of Nice Sophia Antipolis,university-of-nice-sophia-antipolis,logo/eaa7aac99.png,401-500,France,fr,18-20,,0,0,0,17.2,25.3,15
+University of Oklahoma - Norman,university-of-oklahoma-norman,logo/a09e217f8.png,401-500,United States,us,120-135,,0,0,10.9,9,30.4,15.9
+University of Oulu,university-of-oulu,logo-jpg/41dee26eb00.jpg,401-500,Finland,fi,3-5,,11.4,0,0,6.8,30.1,15.8
+University of Palermo,university-of-palermo,logo/9788bf08a.png,401-500,Italy,it,13-16,,0,0,10.9,6.6,29.8,16.7
+University of Potsdam,university-of-potsdam,logo/60edfdb94.png,401-500,Germany,de,27-37,,0,0,10.9,11.2,27.3,15.6
+University of Regensburg,university-of-regensburg,logo/f1e40e83c.png,401-500,Germany,de,27-37,,0,0,0,17.3,27,15.9
+University of Rostock,university-of-rostock,logo/d936760b9.png,401-500,Germany,de,27-37,,0,0,10.9,8.3,25.2,14.2
+University of Science - Malaysia,university-of-science-malaysia,logo-jpg/0bbca4da200.jpg,401-500,Malaysia,my,1-2,,0,0,18.9,3.3,28,16.9
+University of the Basque Country,university-of-the-basque-country,logo/11b34e191.png,401-500,Spain,es,8-11,,0,0,0,11.7,37.3,15.3
+University of Trieste,university-of-trieste,logo-jpg/bb3b959fc00.jpg,401-500,Italy,it,13-16,,0,0,10.9,10.1,26.5,22.9
+University of Turku,university-of-turku,logo/16955298c.png,401-500,Finland,fi,3-5,,0,0,0,11.1,34.4,17.9
+University of Valencia,university-of-valencia,logo/6353e32c9.png,401-500,Spain,es,8-11,,0,0,0,5.5,43,15.7
+University of Wyoming,university-of-wyoming,logo/23ff65b3f.png,401-500,United States,us,120-135,,0,0,10.9,12.5,23.1,17.8
+Vienna University of Technology,vienna-university-of-technology,logo/bf088949a.png,401-500,Austria,at,4,,0,0,0,14.6,29.8,25.8
+Vita-Salute San Raffaele University,vita-salute-san-raffaele-university,logo/d55cdc273.png,401-500,Italy,it,13-16,,0,0,10.9,7.3,17.2,33.6
+Washington State University,washington-state-university,logo/c0ee3c39e.png,401-500,United States,us,120-135,,0,0,10.9,6.7,31.9,17.4
+West Virginia University,west-virginia-university,logo/18ead989c.png,401-500,United States,us,120-135,,0,0,10.9,7.5,30,11.9
+Wuhan University of Technology,wuhan-university-of-technology,logo/16563358.png,401-500,China,cn,34-45,,0,0,18.9,0,29.9,11.7
+Auburn University,auburn-university,logo/ae923d5df.png,501-600,United States,us,136-155,,0,0,0,7.4,29.6,14.2
+Baylor University,baylor-university,logo/231bcc96b.png,501-600,United States,us,136-155,,0,0,10.9,5.1,23.8,15.5
+Beijing Institute of Technology,beijing-institute-of-technology,logo/85386135.png,501-600,China,cn,46-58,,0,0,0,0,39.6,16.2
+Catholic University of Korea,catholic-university-of-korea,logo-jpg/7404420eb00.jpg,501-600,South Korea,kr,13-20,,0,0,0,1.5,30.6,29.7
+Catholic University of the Sacred Heart,catholic-university-of-the-sacred-heart,logo/f49b8c396.png,501-600,Italy,it,17-26,,0,0,0,6.7,30,18.7
+Chongqing University,chongqing-university,logo/79822387.png,501-600,China,cn,46-58,,0,0,0,0,40.1,14.7
+Chonnam National University,chonnam-national-university,logo/0ce486d80.png,501-600,South Korea,kr,13-20,,0,0,0,3.6,34.2,15.8
+Chung-Ang University,chung-ang-university,logo/e39be4ca7.png,501-600,South Korea,kr,13-20,,0,0,0,5.7,30.3,15.9
+Chungbuk National University,chungbuk-national-university,logo/28cde693c.png,501-600,South Korea,kr,13-20,,0,0,10.9,4.9,22.1,14
+Donghua University,donghua-university,logo/41255312.png,501-600,China,cn,46-58,,0,0,15.4,0,25.7,15.5
+Ehime University,ehime-university,logo/bddcc19ee.png,501-600,Japan,jp,18-22,,0,0,10.9,5.7,19.8,14.1
+Eotvos Lorand University,eotvos-lorand-university,logo/1aed152b9.png,501-600,Hungary,hu,1-2,,13.4,0,0,6.7,24.6,13.5
+Erciyes University,erciyes-university,logo/6ddb67622.png,501-600,Turkey,tr,2-3,,0,0,15.4,0,22.4,13.5
+Federal University of Parana,federal-university-of-parana,logo/d81cc762d.png,501-600,Brazil,br,7-8,,0,0,0,5.3,34.8,17.5
+Federal University of Viçosa,federal-university-of-viosa,logo/389df2098.png,501-600,Brazil,br,7-8,,0,0,10.9,5.1,25.8,14.1
+Georgia State University,georgia-state-university,logo/5dbb5050e.png,501-600,United States,us,136-155,,0,0,0,10.3,30,16.6
+Hacettepe University,hacettepe-university,logo/2cc9b991d.png,501-600,Turkey,tr,2-3,,0,0,0,6,32,16.2
+Hefei University of Technology,hefei-university-of-technology,logo/55155531.png,501-600,China,cn,46-58,,0,0,10.9,0,27.9,13
+International School for Advanced Studies,international-school-for-advanced-studies,logo/e837359d8.png,501-600,Italy,it,17-26,,0,0,0,7.6,19.1,41.5
+Kansas State University,kansas-state-university,logo/76d9dd753.png,501-600,United States,us,136-155,,0,0,0,10.6,30.1,16.8
+Kitasato University,kitasato-university,logo-jpg/307b2b66c00.jpg,501-600,Japan,jp,18-22,,0,14.7,0,2.1,19.5,14.6
+Konkuk University,konkuk-university,logo-jpg/74a0498ae00.jpg,501-600,South Korea,kr,13-20,,0,0,0,2.6,32.1,18.4
+Loyola University Chicago,loyola-university-chicago,logo/ea2da1392.png,501-600,United States,us,136-155,,0,0,10.9,3.8,22.5,15.4
+Macau University of Science and Technology,macau-university-of-science-and-technology,logo/21c77ffb7.png,501-600,China-Macau,mo,1-2,,0,0,15.4,10.5,14.8,11.8
+Mahidol University,mahidol-university,logo/4d0b8e15d.png,501-600,Thailand,th,2,,0,0,0,6.2,31,15.7
+Marche Polytechnic University,marche-polytechnic-university,logo/5c0e594b0.png,501-600,Italy,it,17-26,,0,0,10.9,2.6,21.2,21.1
+Massey University,massey-university,logo/e2b89e96d.png,501-600,New Zealand,nz,5,,0,0,0,9.3,26.6,16.2
+Medical University of Graz,medical-university-of-graz,logo/e391440d1.png,501-600,Austria,at,5-6,,0,9.3,0,5.3,23.1,22
+Memorial University of Newfoundland,memorial-university-of-newfoundland,logo/80dcf66c1.png,501-600,Canada,ca,20-21,,0,0,10.9,4,23.6,12.5
+Moscow Institute of Physics and Technology,moscow-institute-of-physics-and-technology,logo-jpg/efea2b6e500.jpg,501-600,Russia,ru,4,,20.9,0,0,4.4,26.5,15.2
+NanJing Tech University,nanjing-tech-university,logo/18208126.png,501-600,China,cn,46-58,,0,0,10.9,1.5,28.3,15.4
+Nara Institute of Science and Technology,nara-institute-of-science-and-technology,logo-jpg/555d0d3c200.jpg,501-600,Japan,jp,18-22,,0,0,15.4,7.9,15,11.4
+National Central University,national-central-university,logo/875d8827c.png,501-600,China-Taiwan,tw,8-9,,0,0,0,7.6,27.6,17.5
+National Polytechnic Institute,national-polytechnic-institute,logo/00e5ce236.png,501-600,Mexico,mx,2,,0,0,0,2.1,35.1,17.4
+National University of Cordoba,national-university-of-cordoba,logo/2ad1c997f.png,501-600,Argentina,ar,2,,0,0,10.9,6.1,21.9,12.5
+National University of Malaysia,national-university-of-malaysia,logo/726ce2d63.png,501-600,Malaysia,my,3-4,,0,0,15.4,0,26.5,15.2
+National Yang Ming University,national-yang-ming-university,logo/e545a6c3e.png,501-600,China-Taiwan,tw,8-9,,0,0,0,1.5,31.8,24.7
+New Jersey Institute of Technology,new-jersey-institute-of-technology,logo/94bfc81cf.png,501-600,United States,us,136-155,,0,0,15.4,5,16.9,21.4
+New University of Lisbon,nova-university-lisbon,logo/97301bf0b.png,501-600,Portugal,pt,6,,0,0,0,7.8,29.7,15.3
+Northeast Normal University,northeast-normal-university,logo/12611652.png,501-600,China,cn,46-58,,0,0,15.4,3.3,22.7,13.2
+Northwest A&F University,northwest-a-f-university,logo/25536937.png,501-600,China,cn,46-58,,0,0,0,3.3,34.2,15.9
+Northwestern Polytechnical University,northwestern-polytechnical-university,logo/20384817.png,501-600,China,cn,46-58,,0,0,0,2.1,38.5,15
+Old Dominion University,old-dominion-university,logo/a8a7ded5c.png,501-600,United States,us,136-155,,0,0,10.9,3.9,21.1,14.9
+Pusan National University,pusan-national-university,logo-jpg/05e77e46700.jpg,501-600,South Korea,kr,13-20,,0,0,0,3.8,36.6,15.3
+Rensselaer Polytechnic Institute,rensselaer-polytechnic-institute,logo/a2faf8830.png,501-600,United States,us,136-155,,12.4,0,0,11.3,21.6,21
+Royal Holloway - University of London,royal-holloway-university-of-london,logo/ff64db158.png,501-600,United Kingdom,gb,39-43,,0,0,0,12.2,22.3,17.9
+Saitama University,saitama-university,logo-jpg/458dbdfa300.jpg,501-600,Japan,jp,18-22,,14.4,0,10.9,3.3,14.8,16
+San Diego State University,san-diego-state-university,logo/e19bd5ec8.png,501-600,United States,us,136-155,,0,0,0,10.1,26.3,16.4
+Scuola Normale Superiore - Pisa,scuola-normale-superiore-pisa,logo-jpg/5ed9cf07300.jpg,501-600,Italy,it,17-26,,0,0,0,5,17.6,48
+Shanghai University,shanghai-university,logo/94139385.png,501-600,China,cn,46-58,,0,0,0,1.5,37.8,14.9
+Sharif University of Technology,sharif-university-of-technology,logo/3a61a30e3.png,501-600,Iran,ir,3-4,,15.2,0,0,0,28.4,15.1
+Southern University of Science and Technology,southern-university-of-science-and-technology,logo/22950445.png,501-600,China,cn,46-58,,0,0,10.9,2.6,16.3,29.8
+SUNY Downstate Health Sciences University,state-university-of-new-york-health-science-center-at-brooklyn,logo/611e47699.png,501-600,United States,us,136-155,,0,15.2,0,6.6,15.1,18.5
+Technical University of Braunschweig,technical-university-of-braunschweig,logo/1ab78ffa1.png,501-600,Germany,de,38-42,,12.4,0,0,10.4,22,12.8
+Tehran University of Medical Sciences,tehran-university-of-medical-sciences,logo/01b4294bc.png,501-600,Iran,ir,3-4,,0,0,0,1.5,36.5,18.1
+Texas Tech University,texas-tech-university,logo/7872132b9.png,501-600,United States,us,136-155,,0,0,0,4.9,32.8,15.5
+The University of Texas at San Antonio,the-university-of-texas-at-san-antonio,logo/0b2ad8713.png,501-600,United States,us,136-155,,0,0,10.9,6.8,23.5,16.3
+University of Alaska - Fairbanks,university-of-alaska-fairbanks,logo/2e039f99b.png,501-600,United States,us,136-155,,0,0,10.9,8.5,18.6,18.7
+University of Arkansas at Fayetteville,university-of-arkansas-at-fayetteville,logo/298ee7612.png,501-600,United States,us,136-155,,0,0,10.9,3.9,26.2,15.5
+University of Arkansas at Little Rock,university-of-arkansas-at-little-rock,logo/4e0b6ae1d.png,501-600,United States,us,136-155,,0,0,10.9,1.5,23.3,20.5
+University of Bari,university-of-bari,logo/aa3bcf6b9.png,501-600,Italy,it,17-26,,0,0,0,6,29.1,16.7
+University of Bath,university-of-bath,logo/d94237204.png,501-600,United Kingdom,gb,39-43,,0,0,0,9.3,30.7,19.5
+University of Duisburg-Essen,university-of-duisburg-essen-1,logo/ba06426ae.png,501-600,Germany,de,38-42,,0,0,0,9.7,31.4,16.3
+University of Essex,university-of-essex,logo/1eaab60d0.png,501-600,United Kingdom,gb,39-43,,19,0,0,2.1,21.8,20
+University of Genoa,university-of-genoa,logo-jpg/b93c9834100.jpg,501-600,Italy,it,17-26,,0,0,0,4.4,33.1,18
+University of Giessen,university-of-giessen,logo-jpg/faa54a30300.jpg,501-600,Germany,de,38-42,,0,0,0,7.4,30.5,15.6
+University of Graz,university-of-graz,logo/c9baa2289.png,501-600,Austria,at,5-6,,7.2,9.3,0,7.3,20.4,18.1
+University of Hohenheim,university-of-hohenheim,logo/1d8b41632.png,501-600,Germany,de,38-42,,0,0,15.4,6.3,20.1,12.9
+University of Jyvaskyla,university-of-jyvaskyla,logo/9494f2957.png,501-600,Finland,fi,6,,0,0,0,9,28.1,14.7
+University of Macau,university-of-macau,logo/b1acc8660.png,501-600,China-Macau,mo,1-2,,0,0,10.9,0,28.1,15
+University of Maryland - Baltimore County,university-of-maryland-baltimore-county,logo/3ff2a8af8.png,501-600,United States,us,136-155,,0,0,10.9,9.2,19.1,17.8
+University of Oldenburg,university-of-oldenburg,logo/7e3ba3054.png,501-600,Germany,de,38-42,,0,0,10.9,7.2,21.4,12.4
+University of Oviedo,university-of-oviedo,logo/0468e16fc.png,501-600,Spain,es,12-16,,0,0,0,9.8,29.9,14.2
+University of Parma,university-of-parma,logo-jpg/f7d68d11c00.jpg,501-600,Italy,it,17-26,,0,0,10.9,2.6,25.9,17.5
+University of Perugia,university-of-perugia,logo/561680e16.png,501-600,Italy,it,17-26,,0,0,0,9,29.8,19.3
+University of Portsmouth,university-of-portsmouth,logo/ae2b38392.png,501-600,United Kingdom,gb,39-43,,0,0,15.4,6.8,20.2,12.2
+University of Pretoria,university-of-pretoria,logo/b34a89037.png,501-600,South Africa,za,6,,0,0,0,6.1,33.5,16.9
+University of Rhode Island,university-of-rhode-island,logo/c3738a931.png,501-600,United States,us,136-155,,0,0,10.9,7.4,22.3,16.5
+University of Science and Technology Beijing,university-of-science-and-technology-beijing,logo/96310183.png,501-600,China,cn,46-58,,0,0,0,1.5,36.9,17.5
+University of Seville,university-of-seville,logo/d4fff047e.png,501-600,Spain,es,12-16,,0,0,0,6.6,34.5,12.4
+University of South Australia,university-of-south-australia,logo/5181997d8.png,501-600,Australia,au,24,,0,0,0,2.6,30.6,20.5
+University of Strathclyde,university-of-strathclyde,logo/ef4e282ee.png,501-600,United Kingdom,gb,39-43,,0,0,0,7,28.5,17.7
+University of Szeged,university-of-szeged,logo-jpg/26a33547500.jpg,501-600,Hungary,hu,1-2,,0,13.1,0,3.8,22,12.8
+University of the Balearic Islands,university-of-the-balearic-islands,logo-jpg/ef1f271ff00.jpg,501-600,Spain,es,12-16,,0,0,15.4,6.3,16.8,17.9
+University of Trento,university-of-trento,logo-jpg/7c172b72800.jpg,501-600,Italy,it,17-26,,0,0,0,7.1,28.3,21.6
+University of Udine,university-of-udine,logo/cc6b2ef42.png,501-600,Italy,it,17-26,,0,0,10.9,6,22.2,19.7
+University of Ulsan,university-of-ulsan,logo-jpg/4a4d71a2d00.jpg,501-600,South Korea,kr,13-20,,0,0,0,4,34.5,16
+University of Versailles Saint-Quentin-en-Yvelines,university-of-versailles-saint-quentin-en-yvelines,logo-jpg/5489e557600.jpg,501-600,France,fr,21,,0,0,10.9,8.7,19.9,16.2
+University of Vigo,university-of-vigo,logo-jpg/41326703500.jpg,501-600,Spain,es,12-16,,0,0,10.9,1.5,24.4,15.1
+University of Wisconsin-Milwaukee,university-of-wisconsin-milwaukee,logo/4ae02c6be.png,501-600,United States,us,136-155,,10.2,0,0,9.4,25.3,14.8
+University of Zagreb,university-of-zagreb,logo/e5217fb84.png,501-600,Croatia,hr,1,,0,0,0,4.5,32.4,16.3
+University of Zaragoza,university-of-zaragoza,logo-jpg/46f672da900.jpg,501-600,Spain,es,12-16,,0,0,0,7.2,33.2,14.1
+University Putra Malaysia,university-putra-malaysia,logo/7dba9476c.png,501-600,Malaysia,my,3-4,,0,0,10.9,0,30.7,16.2
+Utah State University,utah-state-university,logo/6a8b4ebd9.png,501-600,United States,us,136-155,,13.4,0,0,8.2,24.5,15.3
+Wake Forest University,wake-forest-university,logo/1598033eb.png,501-600,United States,us,136-155,,0,0,10.9,7.6,22.2,10.5
+Waseda University,waseda-university,logo/791423400.png,501-600,Japan,jp,18-22,,0,0,10.9,5.1,27.8,11.1
+Yangzhou University,yangzhou-university,logo/61656418.png,501-600,China,cn,46-58,,0,0,10.9,1.5,26.4,12.4
+Yeungnam University,yeungnam-university,logo/f65adb5e5.png,501-600,South Korea,kr,13-20,,0,0,10.9,0,27.9,14.9
+York University,york-university,logo/eab17c4cf.png,501-600,Canada,ca,20-21,,0,0,0,6.2,31.2,13.2
+Zhengzhou University,zhengzhou-university,logo/68963418.png,501-600,China,cn,46-58,,0,0,0,5.6,38.3,11.8
+AGH University of Krakow,agh-university-of-science-and-technology,logo/f67d4a423.png,601-700,Poland,pl,3,,0,0,0,4.9,29.3,14.7
+Babeș-Bolyai University,babe-bolyai-university,logo/5ae5cb2bb.png,601-700,Romania,ro,1,,0,0,10.9,3.3,22.2,12.4
+Beijing University of Chemical Technology,beijing-university-of-chemical-technology,logo/46052210.png,601-700,China,cn,59-79,,0,0,0,0,30.5,18.3
+Beijing University of Technology,beijing-university-of-technology,logo/10211810.png,601-700,China,cn,59-79,,0,0,0,3.3,28.3,14.1
+Carleton University,carleton-university,logo/3243bfc6e.png,601-700,Canada,ca,22-25,,0,0,0,5.1,27.3,15.6
+China Medical University (Shenyang),china-medical-university-shenyang,logo/87682693.png,601-700,China,cn,59-79,,0,0,0,6.1,27.7,16.7
+China University of Geosciences Beijing,china-university-of-geosciences-beijing,logo/21004246.png,601-700,China,cn,59-79,,0,0,0,4.2,27.1,18.2
+China University of Petroleum - Beijing,china-university-of-petroleum-beijing,logo-jpg/6662428200.jpg,601-700,China,cn,59-79,,0,0,0,4.9,26,17.3
+Chonbuk National University,chonbuk-national-university,logo-jpg/3e994399800.jpg,601-700,South Korea,kr,21-25,,0,0,0,1.5,31.1,14.8
+Chungnam National University,chungnam-national-university,logo-jpg/758b6125200.jpg,601-700,South Korea,kr,21-25,,0,0,0,2.1,29.2,14.7
+Clark University,clark-university,logo/647ec0ffb.png,601-700,United States,us,156-172,,0,0,10.9,5.7,12.3,19.7
+Clemson University,clemson-university,logo/a07c7ddc7.png,601-700,United States,us,156-172,,0,0,0,6.3,28.3,14.9
+Colorado School of Mines,colorado-school-of-mines,logo/71fc2b100.png,601-700,United States,us,156-172,,0,0,0,10.8,19.3,23.7
+Copenhagen Business School,copenhagen-business-school,logo/53722c4c3.png,601-700,Denmark,dk,6,,0,0,10.9,,16.7,11.2
+CUNY Graduate School and University Center,cuny-graduate-school-and-university-center,logo/cb7b39c18.png,601-700,United States,us,156-172,,0,0,0,3.5,25,27
+Czech Technical University in Prague,czech-technical-university-in-prague,logo/d19a37f52.png,601-700,Czech Republic,cz,2-4,,7.2,0,0,5.6,23.2,13.3
+Dokuz Eylul University,dokuz-eylul-university,logo/411198912.png,601-700,Turkey,tr,4,,0,0,10.9,2.3,22.9,12.6
+Federal University of Santa Catarina,federal-university-of-santa-catarina,logo/e73711102.png,601-700,Brazil,br,9-10,,0,0,0,0,30.8,15.3
+Federal University of Sao Paulo,federal-university-of-sao-paulo,logo/f4b42a879.png,601-700,Brazil,br,9-10,,0,0,0,1.5,32.4,16.1
+Florida Institute of Technology,florida-institute-of-technology,logo/7bd9de483.png,601-700,United States,us,156-172,,0,0,10.9,6.9,13.6,16.7
+Fuzhou University,fuzhou-university,logo/77372849.png,601-700,China,cn,59-79,,0,0,10.9,0,24.4,12.8
+Harbin Medical University,harbin-medical-university,logo/97930562.png,601-700,China,cn,59-79,,0,0,0,1.5,28.4,19.5
+Hong Kong Baptist University,hong-kong-baptist-university,logo/a8fea0098.png,601-700,China-Hong Kong,hk,6,,0,0,0,5.9,23.5,19.6
+INHA University,inha-university,logo/8cbf3f563.png,601-700,South Korea,kr,21-25,,0,0,0,2.6,28.6,15.2
+Jawaharlal Nehru University,jawaharlal-nehru-university,logo/b5167187f.png,601-700,India,in,2-3,,0,0,10.9,5.4,17.5,10.6
+Jiangnan University,jiangnan-university,logo/92884896.png,601-700,China,cn,59-79,,0,0,0,0,32.5,14.9
+Jiangsu University,jiangsu-university,logo/28154997.png,601-700,China,cn,59-79,,0,0,0,2.1,32.9,14.6
+Jinan University,jinan-university,logo/78175531.png,601-700,China,cn,59-79,,0,0,0,4.5,30.7,13.6
+Johannes Kepler University Linz,johannes-kepler-university-linz,logo/433ab9517.png,601-700,Austria,at,7,,0,0,10.9,2.8,18.5,19.8
+Juntendo University,juntendo-university,logo-jpg/1fd69f0e000.jpg,601-700,Japan,jp,23-26,,0,0,10.9,1.5,20.9,11.1
+Kangwon National University,kangwon-national-university,logo/63790c42e.png,601-700,South Korea,kr,21-25,,0,0,0,6.9,26.5,14.9
+Lincoln University,lincoln-university,logo/6dbf7ecbd.png,601-700,New Zealand,nz,6-7,,0,0,10.9,2.1,13,24.9
+Loughborough University,loughborough-university,logo/214427e84.png,601-700,United Kingdom,gb,44-47,,0,0,0,4.9,27.2,16
+Masaryk University,masaryk-university,logo/bb938252e.png,601-700,Czech Republic,cz,2-4,,0,0,0,5.9,28.2,18.2
+Medical College of Wisconsin,medical-college-of-wisconsin,logo/572f5a817.png,601-700,United States,us,156-172,,0,0,0,7.6,26.1,11.7
+Miguel Hernandez University of Elche,miguel-hernandez-university-of-elche,logo/4957fb157.png,601-700,Spain,es,17-22,,0,0,10.9,6.3,16.1,17.7
+Missouri University of Science and Technology,missouri-university-of-science-and-technology,logo/03199876a.png,601-700,United States,us,156-172,,0,0,10.9,2.3,18.4,17.4
+Montana State University - Bozeman,montana-state-university-bozeman,logo/58fbb8048.png,601-700,United States,us,156-172,,0,0,0,13.7,20.6,17.4
+Nanjing University of Information Science & Technology,nanjing-university-of-information-science-technology,logo/59759082.png,601-700,China,cn,59-79,,0,0,0,5.1,27.5,16.8
+National University of Defense Technology,national-university-of-defense-technology,logo/43010135.png,601-700,China,cn,59-79,,0,0,0,1.5,30.1,15
+Northern Arizona University,northern-arizona-university,logo/319ee8ecb.png,601-700,United States,us,156-172,,0,0,10.9,7.2,15.5,11.6
+North-West University,north-west-university,logo-jpg/d187002b500.jpg,601-700,South Africa,za,7,,11.4,0,0,2.1,24.6,12.9
+Norwegian University of Life Sciences,norwegian-university-of-life-sciences,logo/c97f81e59.png,601-700,Norway,no,4,,0,0,0,10,21.7,18.7
+Ohio University,ohio-university,logo/c087039d3.png,601-700,United States,us,156-172,,13.4,0,0,6.2,21.8,13.2
+Palacký University,palack-university-olomouc,logo/056540e81.png,601-700,Czech Republic,cz,2-4,,0,0,0,3.3,25.1,20.1
+Polytechnic University of Catalonia,polytechnic-university-of-catalonia,logo/fe4e14473.png,601-700,Spain,es,17-22,,0,0,0,6.4,27.7,14.1
+Polytechnic University of Madrid,polytechnic-university-of-madrid,logo/701fcabab.png,601-700,Spain,es,17-22,,0,0,0,4.3,31,12.3
+Polytechnic University of Turin,polytechnic-university-of-turin,logo-jpg/145b9cd4f00.jpg,601-700,Italy,it,27-31,,0,0,0,5.1,26.8,17.6
+Pukyong National University,pukyong-national-university,logo-jpg/eac03203b00.jpg,601-700,South Korea,kr,21-25,,0,0,10.9,1.5,21.2,14.9
+Qatar University,qatar-university,logo/5dc87e8af.png,601-700,Qatar,qa,1,,0,0,10.9,1.5,22.2,12.3
+Renmin University of China,renmin-university-of-china,logo/88617939.png,601-700,China,cn,59-79,,0,0,0,,25.5,12
+Saarland University,saarland-university,logo/c7b3c689c.png,601-700,Germany,de,43-44,,0,0,0,6.6,28.6,14.6
+Shenzhen University,shenzhen-university,logo/88823168.png,601-700,China,cn,59-79,,0,0,0,3.9,31.8,15.2
+Southern Medical University,southern-medical-university,logo/17740872.png,601-700,China,cn,59-79,,0,0,0,2.3,32.6,16.6
+Southern Methodist University,southern-methodist-university,logo/f3ab12423.png,601-700,United States,us,156-172,,11.4,0,0,7.1,19.5,15.5
+Southwest University,southwest-university,logo/68012227.png,601-700,China,cn,59-79,,0,0,0,0,33.8,12.7
+SUNY Upstate Medical University,suny-upstate-medical-university,logo/3e09fce39.png,601-700,United States,us,156-172,,0,0,10.9,5.4,15,15.1
+Swansea University,swansea-university,logo/f42787c55.png,601-700,United Kingdom,gb,44-47,,0,0,0,8.5,25,17.9
+Swarthmore College,swarthmore-college,logo/13fc1949d.png,601-700,United States,us,156-172,,25.4,0,0,6.6,8.2,22.1
+Syracuse University,syracuse-university,logo/b8c081d63.png,601-700,United States,us,156-172,,0,0,0,8.8,24.2,12.2
+Taipei Medical University,taipei-medical-university,logo/e9c23fec2.png,601-700,China-Taiwan,tw,10,,0,0,0,1.5,28.2,18.7
+Tarbiat Modares University,tarbiat-modares-university,logo-jpg/8c9a1f9a900.jpg,601-700,Iran,ir,5,,0,0,0,1.5,29.8,14.8
+The Open University,the-open-university,logo-jpg/ad501b36300.jpg,601-700,United Kingdom,gb,44-47,,0,0,0,12.4,21.6,12.8
+Naval Medical University,the-second-military-medical-university,logo/52521841.png,601-700,China,cn,59-79,,0,0,0,6.8,28,14.3
+The University of Alabama - Tuscaloosa,the-university-of-alabama-tuscaloosa,logo/20a397f37.png,601-700,United States,us,156-172,,0,0,0,7.4,28,13.8
+The University of Waikato,the-university-of-waikato,logo/4ae06729a.png,601-700,New Zealand,nz,6-7,,0,0,10.9,2.1,17.9,16.8
+Third Military Medical University,army-medical-university,logo/45762099.png,601-700,China,cn,59-79,,0,0,0,5.1,26.8,13.5
+Tianjin Medical University,tianjin-medical-university,logo/48683228.png,601-700,China,cn,59-79,,0,0,0,2.3,28.5,17.7
+Tilburg University,tilburg-university,logo/ae935574f.png,601-700,Netherlands,nl,13,,0,0,0,,25,21
+Tokyo Medical and Dental University,tokyo-medical-and-dental-university,logo/f08405847.png,601-700,Japan,jp,23-26,,0,0,0,6.8,24.1,23.5
+Tokyo University of Agriculture and Technology,tokyo-university-of-agriculture-and-technology,logo-jpg/7e6d70e4c00.jpg,601-700,Japan,jp,23-26,,0,0,10.9,0,20.1,19.2
+Tulane University,tulane-university,logo/9a8c0789e.png,601-700,United States,us,156-172,,0,0,0,7.2,27.7,16.2
+University College Cork,university-college-cork,logo/83ad263de.png,601-700,Ireland,ie,4-5,,0,0,0,7.2,26.3,13.5
+University of Alcalá,university-of-alcal,logo/0e3e4b7db.png,601-700,Spain,es,17-22,,0,0,10.9,4.8,20.3,13.9
+University of Auvergne,university-of-auvergne,logo/20fc541c9.png,601-700,France,fr,22-23,,0,0,0,11.2,22.6,18.6
+University of Calcutta,university-of-calcutta,logo/13d0a8540.png,601-700,India,in,2-3,,11.4,9.3,0,2.1,20.3,11.8
+University of Canberra,university-of-canberra,logo/e0834d253.png,601-700,Australia,au,25,,0,0,0,4.9,24.5,25.1
+University of Catania,university-of-catania,logo/5482eede5.png,601-700,Italy,it,27-31,,0,0,0,2.6,29.2,15.9
+University of Greifswald,university-of-greifswald,logo/677934e58.png,601-700,Germany,de,43-44,,0,0,10.9,6.8,19.2,11.5
+University of Haifa,university-of-haifa,logo/391929002.png,601-700,Israel,il,7,,0,0,0,7,28.4,14.5
+University of Italian speaking Switzerland,universit-della-svizzera-italiana,logo/351d73d32.png,601-700,Switzerland,ch,9-10,,0,0,15.4,6.8,5.5,22.8
+University of Kent,university-of-kent,logo/78ab7d41a.png,601-700,United Kingdom,gb,44-47,,0,0,0,7.2,25.1,15.4
+University of La Laguna,university-of-la-laguna,logo/403bc1694.png,601-700,Spain,es,17-22,,0,0,0,8.6,24.1,13
+University of L'Aquila,university-of-laquila,logo/23b0a06b1.png,601-700,Italy,it,27-31,,0,0,10.9,1.5,20.3,18.7
+University of Limerick,university-of-limerick,logo/f1ff21def.png,601-700,Ireland,ie,4-5,,0,0,10.9,5.7,20.1,11.7
+University of Louisville,university-of-louisville,logo/3c3d64d72.png,601-700,United States,us,156-172,,0,0,0,3.8,30,11.4
+University of Luxembourg,university-of-luxembourg,logo/7ed2f6188.png,601-700,Luxembourg,lu,1,,0,0,10.9,3.1,19.1,11
+University of Modena and Reggio Emilia,university-of-modena-and-reggio-emilia,logo-jpg/e939daacc00.jpg,601-700,Italy,it,27-31,,0,0,0,4.8,25.7,17.5
+University of Neuchatel,university-of-neuchatel,logo/1cc6b044f.png,601-700,Switzerland,ch,9-10,,0,0,10.9,3.3,15,23.1
+University of Puerto Rico,university-of-puerto-rico-medical-sciences-campus,logo/65cf0f45c.png,601-700,Puerto Rico,pr,1,,0,0,10.9,8.5,16.5,10.7
+University of Quebec Montreal,university-of-quebec-montreal,logo/a4dcd1f3f.png,601-700,Canada,ca,22-25,,0,0,0,9.1,27,12.9
+University of Regina,university-of-regina,logo/c0ecdbbca.png,601-700,Canada,ca,22-25,,0,0,10.9,6,17.4,17.4
+University of Rennes 1,university-of-rennes-1,logo/8143e1d2c.png,601-700,France,fr,22-23,,0,0,0,6.3,28.8,14.2
+University of Sherbrooke,university-of-sherbrooke,logo-jpg/5746e099100.jpg,601-700,Canada,ca,22-25,,0,0,0,7.4,25.3,12.4
+University of Siena,university-of-siena,logo/96bc4b43f.png,601-700,Italy,it,27-31,,0,0,0,4,25.1,18.9
+University of Tampere,university-of-tampere,logo/af573c32f.png,601-700,Finland,fi,7,,0,0,0,6.1,26.2,13.4
+University Rovira i Virgili,university-rovira-i-virgili,logo/1557d4c88.png,601-700,Spain,es,17-22,,0,0,0,4.9,23.8,20.3
+Wenzhou Medical University,wenzhou-medical-university,logo/83187141.png,601-700,China,cn,59-79,,0,0,0,0,29.8,17.3
+Xidian University,xidian-university,logo/88267454.png,601-700,China,cn,59-79,,0,0,0,0,32.3,14.2
+Yamagata University,yamagata-university,logo/7e73d2467.png,601-700,Japan,jp,23-26,,0,0,10.9,2.6,18.2,13.4
+Adam Mickiewicz University,adam-mickiewicz-university,logo-jpg/86538604200.jpg,701-800,Poland,pl,4-6,,0,0,0,3.5,25.3,12.7
+Ain Shams University,ain-shams-university,logo/9dfa977c3.png,701-800,Egypt,eg,2-3,,0,0,0,3.6,26.2,13.2
+Ajou University,ajou-university,logo/7e96af27b.png,701-800,South Korea,kr,26-28,,0,0,0,3.9,26.5,15.6
+Alexandria University,alexandria-university,logo-jpg/1c2ac8c9400.jpg,701-800,Egypt,eg,2-3,,12.4,0,0,1.5,23.7,12.6
+Amherst College,amherst-college,logo/dfcf28882.png,701-800,United States,us,173-190,,23.3,0,0,7.5,8.1,21.6
+Anhui Medical University,anhui-medical-university,logo/55688137.png,701-800,China,cn,80-91,,0,0,0,1.5,24.8,17.4
+Ankara University,ankara-university,logo/e0cbd915b.png,701-800,Turkey,tr,5-7,,0,0,0,1.5,27.6,13.7
+Beijing Jiaotong University,beijing-jiaotong-university,logo/60987143.png,701-800,China,cn,80-91,,0,0,0,1.5,29.7,13.4
+Brescia University,brescia-university,logo/729a1f84b.png,701-800,Italy,it,32-37,,0,0,0,2.1,23,19.2
+Budapest University of Technology and Economics,budapest-university-of-technology-and-economics,logo/bb2fd8008.png,701-800,Hungary,hu,3,,10.2,0,0,4.2,21.1,11.3
+CentraleSupelec,centralesupelec,logo/c991855c2.png,701-800,France,fr,24-30,,0,0,0,1.5,16.9,31.9
+China Pharmaceutical University,china-pharmaceutical-university,logo/95091776.png,701-800,China,cn,80-91,,0,0,0,0,25.2,18.2
+China University of Mining and Technology - Xuzhou,china-university-of-mining-and-technology-xuzhou,logo/15914272.png,701-800,China,cn,80-91,,0,0,0,0,29.5,14.4
+Chongqing Medical University,chongqing-medical-university,logo/81855043.png,701-800,China,cn,80-91,,0,0,0,0,27.2,17.3
+Comenius University in Bratislava,comenius-university-in-bratislava,logo/8f1443b10.png,701-800,Slovakia,sk,1,,0,0,0,3.6,25,12.5
+CUNY Hunter College,cuny-hunter-college,logo/41a1f5e4f.png,701-800,United States,us,173-190,,13.4,0,0,7.1,16.3,12.2
+Ecole Centrale Lyon,ecole-centrale-lyon,logo/1463aa53a.png,701-800,France,fr,24-30,,0,0,10.9,0,11.4,23.9
+Federal University of Pernambuco,federal-university-of-pernambuco,logo/ff5248151.png,701-800,Brazil,br,11-13,,0,0,0,1.5,26.6,13.2
+Federal University of Sao Carlos,federal-university-of-sao-carlos,logo/451958fbe.png,701-800,Brazil,br,11-13,,0,0,0,2.6,27.1,13.5
+Ferdowsi University of Mashhad,ferdowsi-university-of-mashhad,logo-jpg/16bc7567800.jpg,701-800,Iran,ir,6-8,,0,0,0,2.6,25.9,12.9
+Fourth Military Medical University,air-force-medical-university,logo/77870364.png,701-800,China,cn,80-91,,0,0,0,3.5,26.3,13.2
+Gazi University,gazi-university,logo/5f75b4c64.png,701-800,Turkey,tr,5-7,,0,0,0,0,27.8,13.8
+Guangzhou Medical University,guangzhou-medical-university,logo/60473289.png,701-800,China,cn,80-91,,0,0,0,3.6,24.7,12.8
+Gwangju Institute of Science and Technology,gwangju-institute-of-science-and-technology,logo-jpg/80b7dd27c00.jpg,701-800,South Korea,kr,26-28,,0,0,0,5.6,18.3,23.3
+Hohai University,hohai-university,logo/76817036.png,701-800,China,cn,80-91,,0,0,0,0,28.8,13.4
+Indian Institute of Technology Delhi,indian-institute-of-technology-delhi,logo/272613933.png,701-800,India,in,4-7,,0,0,0,2.1,26.9,13.4
+Indian Institute of Technology Kharagpur,indian-institute-of-technology-kharagpur,logo/b6298ef1e.png,701-800,India,in,4-7,,0,0,0,0,30,14.9
+Indian Institute of Technology Madras,indian-institute-of-technology-madras,logo/ad4262bf7.png,701-800,India,in,4-7,,0,0,0,1.5,27.2,13.5
+Inje university,inje-university,logo/417d704a5.png,701-800,South Korea,kr,26-28,,0,0,0,3.3,23.2,18.4
+Isfahan University of Technology,isfahan-university-of-technology,logo/461275d39.png,701-800,Iran,ir,6-8,,0,0,0,0,27.8,13.8
+Kanazawa University,kanazawa-university,logo/294f7949c.png,701-800,Japan,jp,27-36,,0,0,0,2.9,25.2,13.8
+Keele University,keele-university,logo/a602f8456.png,701-800,United Kingdom,gb,48-50,,0,0,0,8.7,19.4,15.4
+Kumamoto University,kumamoto-university,logo/3af1d997a.png,701-800,Japan,jp,27-36,,0,0,0,6.2,24.3,14.5
+Kyushu Institute of Technology,kyushu-institute-of-technology,logo/267744dc3.png,701-800,Japan,jp,27-36,,0,0,10.9,2.3,13.5,16
+Lehigh University,lehigh-university,logo/bde2d45be.png,701-800,United States,us,173-190,,0,0,0,7.9,19.2,14.9
+LILLE 1 University - Science and Technology,university-of-lille-1,logo/a3cf6621b.png,701-800,France,fr,24-30,,0,0,0,9.5,19.6,10.4
+Liverpool John Moores University,liverpool-john-moores-university,logo-jpg/5ce5ca56c00.jpg,701-800,United Kingdom,gb,48-50,,0,0,0,8,22.3,11.9
+London Business School,london-business-school,logo-jpg/f32c13cb800.jpg,701-800,United Kingdom,gb,48-50,,0,0,10.9,,9.2,24.8
+Medical University of Innsbruck,medical-university-of-innsbruck,logo/4b24413e0.png,701-800,Austria,at,8,,0,0,0,4.2,23.3,21.1
+Medical University of Silesia,medical-university-of-silesia,logo/20f741cb6.png,701-800,Poland,pl,4-6,,0,0,10.9,0,18.3,10.6
+Meijo University,meijo-university,logo/1ac29a372.png,701-800,Japan,jp,27-36,,0,12,0,4.9,11.6,12.3
+Michigan Technological University,michigan-technological-university,logo/822f28e71.png,701-800,United States,us,173-190,,8.8,0,0,6.1,18.2,16.8
+Middle East Technical University,middle-east-technical-university,logo/9996d5d43.png,701-800,Turkey,tr,5-7,,0,0,0,1.5,26.9,13.4
+Mississippi State University,mississippi-state-university,logo/e7e5add65.png,701-800,United States,us,173-190,,0,0,0,5.5,24.2,13.8
+Murdoch University,murdoch-university,logo/1d330a5dc.png,701-800,Australia,au,26-27,,0,0,0,4.2,22.5,21.1
+Nagasaki University,nagasaki-university,logo-jpg/99ca9793300.jpg,701-800,Japan,jp,27-36,,11.4,0,0,3.5,23,11.1
+Nanchang University,nanchang-university,logo/25119833.png,701-800,China,cn,80-91,,0,0,0,0,29.4,11.4
+Nanjing Normal University,nanjing-normal-university,logo/27072054.png,701-800,China,cn,80-91,,0,0,0,5.3,25.1,11.6
+National Chung Hsing University,national-chung-hsing-university,logo/9e7ebc12b.png,701-800,China-Taiwan,tw,11-13,,0,0,0,4.4,25.2,14.6
+National Sun Yat-Sen University,national-sun-yat-sen-university,logo/d1665b066.png,701-800,China-Taiwan,tw,11-13,,0,0,0,2.6,25.6,17.5
+National Taiwan University of Science and Technology,national-taiwan-university-of-science-and-technology,logo/0e80a3317.png,701-800,China-Taiwan,tw,11-13,,0,0,0,1.5,24.1,17.4
+National University of Colombia,national-university-of-colombia,logo/b612f1b7c.png,701-800,Colombia,co,1,,0,0,0,4.9,23.3,11.8
+National University of La Plata,national-university-of-la-plata,logo-jpg/cd59edbab00.jpg,701-800,Argentina,ar,3,,0,0,0,3.3,26.5,13.2
+Niigata University,niigata-university,logo-jpg/b1982541a00.jpg,701-800,Japan,jp,27-36,,0,0,0,6.1,24.2,11.4
+Oberlin College,oberlin-college,logo/2123e3618.png,701-800,United States,us,173-190,,13.4,0,10.9,2.1,7.5,14
+Paris Sorbonne University,paris-sorbonne-university,logo/29b782c4e.png,701-800,France,fr,24-30,,0,0,0,8.5,21.8,14.3
+Portland State University,portland-state-university,logo/cdfa03d57.png,701-800,United States,us,173-190,,0,0,0,8.7,20.4,13.1
+Prince of Songkla University,prince-of-songkla-university,logo/a42f11230.png,701-800,Thailand,th,3,,0,0,10.9,1.5,18.6,10.7
+Second University of Naples,university-of-campania-luigi-vanvitelli,logo/39bbce3ce.png,701-800,Italy,it,32-37,,0,0,0,1.5,24.6,16.4
+Shahid Beheshti University of Medical Sciences,shahid-beheshti-university-of-medical-sciences,logo/aa64e79ce.png,701-800,Iran,ir,6-8,,0,0,0,2.1,26.4,13.1
+Shinshu University,shinshu-university,logo/2f6bf8577.png,701-800,Japan,jp,27-36,,0,0,0,6.1,22.9,10.7
+Technical University of Dortmund,technical-university-of-dortmund,logo/483120804.png,701-800,Germany,de,45-46,,0,0,0,6.6,24,12.4
+The Graduate University for Advanced Studies,the-graduate-university-for-advanced-studies,logo-jpg/b0ab0cee300.jpg,701-800,Japan,jp,27-36,,0,0,0,10.8,20.3,11.4
+The University of Akron,the-university-of-akron,logo/da7012957.png,701-800,United States,us,173-190,,0,0,0,7.1,20.3,13.8
+Tottori University,tottori-university,logo-jpg/976bb114b00.jpg,701-800,Japan,jp,27-36,,0,0,10.9,2.6,17.1,14
+Universidad Andrés Bello,universidad-andrs-bello,logo/3719ee9b1.png,701-800,Chile,cl,3-4,,0,0,10.9,2.6,15.9,9.7
+Universiti Teknologi Malaysia,universiti-teknologi-malaysia,logo/c695a775e.png,701-800,Malaysia,my,5,,0,0,0,0,27.9,13.8
+University of Brasília,university-of-braslia,logo/703c2d82e.png,701-800,Brazil,br,11-13,,0,0,0,3.5,27.6,13.8
+University of Burgundy,university-of-burgundy,logo/8f9fd8dc3.png,701-800,France,fr,24-30,,0,0,0,3.3,27.1,13.6
+University of Cagliari,university-of-cagliari,logo-jpg/dd2a1554b00.jpg,701-800,Italy,it,32-37,,0,0,0,3.1,25.9,17.1
+University of Calabria,university-of-calabria,logo-jpg/28adfac9900.jpg,701-800,Italy,it,32-37,,0,0,0,4.9,23.2,17.2
+University of California - Merced,university-of-california-merced,logo/1282f8c2b.png,701-800,United States,us,173-190,,0,0,0,7.3,17.2,20.1
+University of Castilla–La Mancha,university-of-castilla-la-mancha,logo/85fc3fbb4.png,701-800,Spain,es,23-26,,0,0,0,1.5,25.8,14.3
+University of Concepcion,university-of-concepcion,logo/e3b28a1dc.png,701-800,Chile,cl,3-4,,0,0,0,7.6,23.6,12.3
+University of Cordoba,university-of-cordoba,logo/acac02bc9.png,701-800,Spain,es,23-26,,0,0,0,5.3,22.3,14.5
+University of Delhi,university-of-delhi,logo/72475efd1.png,701-800,India,in,4-7,,0,0,0,2.9,26.8,13.4
+University of Idaho,university-of-idaho,logo/b4f702784.png,701-800,United States,us,173-190,,0,0,0,7.9,21.7,15.9
+University of Messina,university-of-messina,logo/be86c3599.png,701-800,Italy,it,32-37,,0,0,0,1.5,25.5,16.1
+University of Murcia,university-of-murcia,logo/944b999d0.png,701-800,Spain,es,23-26,,0,0,0,3.5,26.6,12.8
+University of Nantes,university-of-nantes,logo/8fcd7fad6.png,701-800,France,fr,24-30,,0,0,0,4.9,26.5,11.8
+University of Nebraska Medical Center,university-of-nebraska-medical-center,logo/b7f66c7e9.png,701-800,United States,us,173-190,,0,0,0,4.7,23.5,19.7
+University of Nevada - Reno,university-of-nevada-reno,logo/90ef5381d.png,701-800,United States,us,173-190,,0,0,0,7.6,22.9,13.9
+University of Nevada-Las Vegas,university-of-nevada-las-vegas-1,logo/e505d9c36.png,701-800,United States,us,173-190,,0,0,0,9,22.3,12.6
+University of New England,university-of-new-england,logo/420935f77.png,701-800,Australia,au,26-27,,0,0,0,3.6,20.9,20.5
+University of New Orleans,university-of-new-orleans,logo/b5e16191a.png,701-800,United States,us,173-190,,0,0,10.9,1.5,13.4,18.2
+University of North Carolina at Greensboro,university-of-north-carolina-at-greensboro,logo/caaf78a75.png,701-800,United States,us,173-190,,0,0,10.9,1.5,18.6,14.2
+University of Ontario Institute of Technology,ontario-tech-university,logo/880e13370.png,701-800,Canada,ca,26,,0,0,10.9,0,14,19.4
+University of Paderborn,university-of-paderborn,logo/4355d23be.png,701-800,Germany,de,45-46,,0,0,10.9,4.7,16.5,10.1
+University of Poitiers,university-of-poitiers,logo/ca074de8a.png,701-800,France,fr,24-30,,11.4,0,0,5.3,21.4,11.6
+University of Salamanca,university-of-salamanca,logo/6643f9877.png,701-800,Spain,es,23-26,,0,0,0,5.1,24.2,12.4
+University of South Africa,university-of-south-africa,logo/1f22364ec.png,701-800,South Africa,za,8,,15.2,0,0,2.1,19,10.9
+University of Tennessee Health Science Center,university-of-tennessee-health-science-center,logo/b3535e77c.png,701-800,United States,us,173-190,,0,0,0,6.9,22.8,11
+University of Toledo,university-of-toledo,logo/4c7aaf8db.png,701-800,United States,us,173-190,,0,0,0,6.3,20.8,14.5
+University of Wroclaw,university-of-wroclaw,logo/3ea504429.png,701-800,Poland,pl,4-6,,5.1,0,0,1.5,27,13.5
+Verona University,university-of-verona,logo-jpg/9ec9254a300.jpg,701-800,Italy,it,32-37,,0,0,0,4.2,24.2,17.7
+Vilnius University,vilnius-university,logo/75b7a4701.png,701-800,Lithuania,lt,1,,8.8,0,0,4.4,23.2,12.1
+Worcester Polytechnic Institute,worcester-polytechnic-institute,logo/2af403901.png,701-800,United States,us,173-190,,0,0,10.9,2.1,13.4,16.9
+Yanshan University,yanshan-university,logo/79375733.png,701-800,China,cn,80-91,,0,0,0,6.6,22.7,11.4
+Yokohama City University,yokohama-city-university,logo-jpg/c9a37be6500.jpg,701-800,Japan,jp,27-36,,0,0,0,7,21,13.1
+Yunnan University,yunnan-university,logo/31586909.png,701-800,China,cn,80-91,,0,0,0,9.3,21.1,11.5

@@ -1,0 +1,123 @@
+Rank,"Name
+Country/Region",Overall,Teaching,Research,Citations,Industry Income,International Outlook
+1,University of OxfordUnited Kingdom,95.6,91.3,99.6,98,68.7,96.4
+2,Stanford UniversityUnited States,94.9,92.2,96.7,99.9,90.1,79.5
+3,Harvard UniversityUnited States,94.8,94.4,98.8,99.4,46.8,77.7
+4,California Institute of TechnologyUnited States,94.5,92.5,96.9,97,92.7,83.6
+5,Massachusetts Institute of TechnologyUnited States,94.4,90.7,94.4,99.7,90.4,90
+6,University of CambridgeUnited Kingdom,94,90.3,99.2,95.6,52.1,95.7
+7,"University of California, BerkeleyUnited States",92.2,85.8,97.2,99.1,84.3,72.3
+8,Yale UniversityUnited States,91.6,91.9,93.8,97.9,56.1,68.4
+9,Princeton UniversityUnited States,91.5,88.8,92.5,98.9,58,80.2
+10,The University of ChicagoUnited States,90.3,88.9,90.5,98.6,54.9,74
+11,Imperial College LondonUnited Kingdom,89.4,82.3,88.2,97.2,69.6,97.4
+12,Johns Hopkins UniversityUnited States,89.2,81.6,91.8,97.7,93.4,73.9
+13,University of PennsylvaniaUnited States,88.9,85.4,89.9,98.1,77.9,66.3
+14,ETH ZurichSwitzerland,87.9,80.4,92.3,90.5,62.8,98
+15,"University of California, Los AngelesUnited States",87.1,82.5,90.2,96.5,57.6,65.3
+16,UCLUnited Kingdom,86.9,76.6,89.4,96.2,42.1,96.5
+17,Columbia UniversityUnited States,86.8,85.1,82.9,97.7,45,79.8
+18,University of TorontoCanada,86,75.4,90.9,94.5,50,87.2
+19,Cornell UniversityUnited States,85.3,78.8,86.7,97.2,36.3,73.7
+20,Duke UniversityUnited States,84.8,80.7,80.4,96.9,99.7,65.5
+20,Tsinghua UniversityChina,84.8,87.7,94.9,78.8,100,51.1
+22,University of Michigan-Ann ArborUnited States,84,79,86.9,95.4,47.2,59.6
+23,Peking UniversityChina,83.9,89.6,91.3,75.4,96.3,61.2
+24,Northwestern UniversityUnited States,83.6,74.9,83.6,98.2,69.9,64.5
+25,"National University of SingaporeSingapore
+Explore",83.5,75.9,90.8,81.5,77.8,94.8
+26,New York UniversityUnited States,81.9,76.1,80.6,96,37.3,69.6
+27,London School of Economics and Political ScienceUnited Kingdom,81.4,68.5,82.5,94.3,34.1,92.8
+28,Carnegie Mellon UniversityUnited States,81,65.1,81.3,98.9,53.3,80.5
+29,University of WashingtonUnited States,80.4,69.8,80.5,98.7,45.6,60.9
+30,University of EdinburghUnited Kingdom,79.4,67.2,74.7,96,38.7,94.6
+31,University of MelbourneAustralia,78.9,67.1,76.3,90.1,74.2,93.9
+32,"LMU MunichGermany
+Explore",78.2,68.7,78.7,87.9,100,68.1
+33,"University of California, San DiegoUnited States",77.7,60.3,80.4,94.3,95.6,64.4
+34,University of British ColumbiaCanada,76.4,62.1,75.1,90,44.7,94.7
+35,King’s College LondonUnited Kingdom,76.1,57.3,72.4,96.6,43.6,95.4
+36,Karolinska InstituteSweden,76,57.6,72.2,95.8,71.4,87.3
+36,The University of TokyoJapan,76,87.9,90.7,57.7,82.6,40.1
+38,Georgia Institute of TechnologyUnited States,75.8,59.5,76.8,91.1,65.8,78.9
+39,"University of Hong KongHong Kong
+Explore",75.2,67.5,73.3,80.3,57.4,99
+40,"McGill UniversityCanada
+Explore",75.1,64.2,73.4,86.4,43.7,91.3
+41,"Technical University of MunichGermany
+Explore",74.8,63.8,73.6,85,100,74.4
+42,"Universität HeidelbergGermany
+Explore",74.3,67.5,61.7,96.6,56.9,68.4
+43,École Polytechnique Fédérale de LausanneSwitzerland,74.1,63.9,66.7,85.8,73.3,98.5
+44,University of Texas at AustinUnited States,74,67.9,74.8,90.5,46.2,39.4
+45,"KU LeuvenBelgium
+Explore",73.7,58.7,74.4,86.1,97.2,72.7
+46,Paris Sciences et Lettres – PSL Research University ParisFrance,73.6,71.2,73,75.9,61.7,80.6
+47,"Nanyang Technological University, SingaporeSingapore
+Explore",72.7,57.1,71.9,83,83.2,94
+48,University of Illinois at Urbana-ChampaignUnited States,72.3,62.5,79.1,81.3,49.5,55.1
+49,University of Wisconsin-MadisonUnited States,71.4,68.2,71.4,82.5,45,48.4
+50,Washington University in St LouisUnited States,71.1,61.2,58.7,99,40.4,59.1
+51,"University of ManchesterUnited Kingdom
+Explore",70.9,57.1,66.5,85.6,49.2,91.7
+51,The University of SydneyAustralia,70.9,51.3,64.4,92.3,69.3,90
+53,University of Southern CaliforniaUnited States,70.4,63.8,58.4,93.1,39.2,64.9
+54,Boston UniversityUnited States,70.3,58.9,60.9,94.9,41.7,64.9
+54,Kyoto UniversityJapan,70.3,77.9,79.9,60.8,74.6,37.8
+56,"The Chinese University of Hong KongHong Kong
+Explore",70.1,55.7,59.1,89.4,58.6,98.3
+56,"The Hong Kong University of Science and TechnologyHong Kong
+Explore",70.1,52.1,63,88.9,63.6,97.4
+56,University of North Carolina at Chapel HillUnited States,70.1,60.6,63.3,96.3,42.5,39.7
+59,"Australian National UniversityAustralia
+Explore",69.8,48.5,68.3,88.4,43,96.2
+60,Seoul National UniversitySouth Korea,69.7,72.4,73.8,68.8,97.8,37.4
+61,Brown UniversityUnited States,69.5,62.4,56.6,94,36.1,62.3
+62,"The University of QueenslandAustralia
+Explore",69.4,54.3,61,85.9,81,93
+62,Wageningen University & ResearchNetherlands,69.4,48.2,56.4,97.3,100,83.7
+64,"University of California, DavisUnited States",68.9,60.5,66.2,81.9,50.4,66.9
+64,Monash UniversityAustralia,68.9,52.9,61.7,86.2,73.9,90.3
+66,University of AmsterdamNetherlands,68.8,49.1,62.2,92.8,39.9,87.4
+67,"UNSW SydneyAustralia
+Explore",68.2,50.9,62,85.3,66.8,94.7
+68,"University of California, Santa BarbaraUnited States",67.9,45.8,59.6,96.7,81.8,70
+69,"McMaster UniversityCanada
+Explore",67.5,46.7,53.1,95.8,99.5,83.8
+70,Fudan UniversityChina,66.7,65.9,65.6,73.3,67.1,47.7
+70,"Leiden UniversityNetherlands
+Explore",66.7,45.6,66,84.1,72.6,82.2
+72,Erasmus University RotterdamNetherlands,66.2,37.9,57,97.6,73.6,87.8
+73,"Université de MontréalCanada
+Explore",65.6,51.1,52.6,87.4,78.3,84.3
+73,University of ZurichSwitzerland,65.6,50.1,50.4,89.8,64.1,92.1
+75,Charité - Universitätsmedizin BerlinGermany,65.4,48.3,48,97.4,92.1,66.6
+75,Utrecht UniversityNetherlands,65.4,43,61.1,89.9,65.7,74.1
+77,University of WarwickUnited Kingdom,65.3,46.7,53.8,90.1,41.6,94
+78,Delft University of TechnologyNetherlands,65.2,54.4,71.6,60,98.9,92.8
+78,University of TübingenGermany,65.2,53.3,59.7,81.9,77.1,64.3
+80,University of GroningenNetherlands,65.1,41.2,56.2,92.6,69.8,85.1
+80,Humboldt University of BerlinGermany,65.1,60.6,67.8,68.3,37.6,68.3
+80,Ohio State University (Main campus)United States,65.1,55.6,54.2,87.9,53.3,60.1
+83,University of FreiburgGermany,64.7,48.4,52.2,87.3,100,77.8
+84,University of CopenhagenDenmark,63.8,49.3,47.3,90.4,50.5,86.4
+85,Emory UniversityUnited States,63.7,53.9,41.1,98.7,46.7,59.2
+85,University of MinnesotaUnited States,63.7,55.1,59,81.4,80.3,40.7
+87,École Polytechnique – Institut Polytechnique de ParisFrance,63.4,60.5,52.4,68.2,72.1,96.1
+87,"University of Science and Technology of ChinaChina
+Explore",63.4,64,60.4,72.3,75.2,33
+87,Sorbonne UniversityFrance,63.4,63.2,54.5,73.5,36.9,68.5
+90,"University of Maryland, College ParkUnited States",63.1,47.4,58.8,90.2,38.9,42.9
+91,"University of BristolUnited Kingdom
+Explore",63,40.3,48.6,95.6,39.8,88.2
+92,University of BaselSwitzerland,62.9,44,41.4,91.7,99.7,97.2
+92,"University of GlasgowUnited Kingdom
+Explore",62.9,40.9,48.1,94.3,39.9,92.8
+94,Purdue University West LafayetteUnited States,62.5,57.1,65.5,62,69.9,71.5
+94,"Zhejiang UniversityChina
+Explore",62.5,65.9,65.6,52.3,100,65.1
+96,Korea Advanced Institute of Science and Technology (KAIST)South Korea,62.4,64.4,68.1,57.9,100,36.6
+97,National Taiwan University (NTU)Taiwan,62.3,57.1,66.7,66.9,69.5,44.8
+98,"University of California, IrvineUnited States",62.1,43.5,47.5,93.5,53.2,72.4
+98,University of HelsinkiFinland,62.1,42.7,58.3,88.9,37,56.1
+100,Shanghai Jiao Tong UniversityChina,61.8,60.8,70,53.7,100,52
